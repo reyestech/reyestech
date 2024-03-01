@@ -9,20 +9,20 @@
 
   - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
     
-  - [NMAP Runbook](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
 
   - [Fullstack Capstone Project Video)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
 <h2>👨‍💻🛡️ Splunk Labs (BOTS):</h2>
 
-  - [Splunk: Website Defacement](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
    
-  - [Splunk: Ransomware](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
 
 <h2>👨‍💻⚔️ Penetration Testing Labs:</h2>
 
-  - [Nmap & Metasploit: Stackfull Software Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nmap & Metasploit: Stackfull Software Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 
     
 <h2>🧑‍🎓📑 Certifications:</h2>
