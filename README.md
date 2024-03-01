@@ -7,7 +7,7 @@
 
   - [UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
 
-  - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
     
   - [NMAP Runbook](https://github.com/joshmadakor1/Algorithms-Practice)
 
