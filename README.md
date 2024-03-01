@@ -5,7 +5,7 @@
 
   - [Elastic SIEM Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
 
-  - [UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial)
+  - [UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
 
   - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/joshmadakor1/Algorithms-Practice)
     
