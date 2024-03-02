@@ -11,7 +11,7 @@
     
   - [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
 
-  - [Fullstack Capstone Project Video)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  - [Fullstack Capstone Project Video)](https://youtu.be/j60MCJAZG3s?si=VH1_Kj8-zQ4nG_Fd)
 
 
 <h2>👨‍💻🛡️ Splunk Labs (BOTS):</h2>
