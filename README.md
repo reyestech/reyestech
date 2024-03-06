@@ -25,15 +25,13 @@
   - [Nmap & Metasploit: Stackfull Software Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 
     
-<h2>🧑‍🎓📑 Certifications:</h2>
+<h2>🧑‍🎓📑 Education & Education:</h2>
  
-  - [CompTIA A+ 220-1101 (220-1102 in progress)](https://github.com/joshmadakor1/Algorithms-Practice)
-
-  - [CompTIA Network+ N10-008 (in-progress)](https://github.com/joshmadakor1/Algorithms-Practice)
-
-  - [CompTIA Security+ SY0-701](https://github.com/joshmadakor1/Algorithms-Practice)
-
-  - [Fullstack Cybersecurity Analytics](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Fullstack Cybersecurity Analytics](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Security+ SY0-701](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Network+ N10-008 (Estimated 3/15/24 ](https://github.com/joshmadakor1/Algorithms-Practice) 
+- [CompTIA A+ 220-1101 ](https://github.com/joshmadakor1/Algorithms-Practice)
+- Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress
 
 
 <h2> 🤳 Connect with me:</h2>
