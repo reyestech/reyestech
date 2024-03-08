@@ -1,7 +1,7 @@
-<h1>Hi, I'm Miguel! <a href="https://www.linkedin.com/in/reyestech">Information Security Professional</a>, <a href="https://www.reyestech.org"> Website In-progress</a></h1>
+<h1>Hi, I'm Miguel!
 
-<h2>👨‍💻📚 Fullstack Capstone Project Projects:</h2>
-
+  
+  <a href="https://www.linkedin.com/in/reyestech">   </b> Cybersecurity Professional</a>
 
   - [Elastic SIEM Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
 
@@ -27,11 +27,11 @@
     
 <h2>🧑‍🎓📑 Education & Education:</h2>
  
-- [Fullstack Cybersecurity Analytics](<img src="https://i.imgur.com/G7mmMsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>)
+- [Fullstack Cybersecurity Analytics](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp)
 - [CompTIA Security+ SY0-701](https://www.credly.com/earner/earned/badge/b7fd3e71-c28d-4acc-81e4-ae4121d9779a)
 - [CompTIA Network+ N10-008 (Estimated 3/15/24 ](https://www.comptia.org/certifications/network) 
 - [CompTIA A+ 220-1101 ](https://www.comptia.org/certifications/a)
-- Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress
+- [Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html#transcriptPop)
 
 
 <h2> 🤳 Connect with me:</h2>
