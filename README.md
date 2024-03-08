@@ -40,8 +40,8 @@
 
 
 <h2>🌐📚🍯🔏Incoming Projects:</h2>
-<h3>In the upcoming weeks, I will share detailed runbooks on my Networking and Security Projects.
-These guides will offer a thorough analysis of the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
+<h3>In the upcoming weeks, I will share detailed runbooks on my current Networking and Security Projects.
+These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
   
   - Azure-SOC-Honeynet-Project (Live Traffic with Maps)
     - <b>Task: Creating a SOC with Honeynet within Microsoft Azure with real-world cyber attacks 
