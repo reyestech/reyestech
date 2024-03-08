@@ -27,10 +27,10 @@
     
 <h2>🧑‍🎓📑 Education & Education:</h2>
  
-- [Fullstack Cybersecurity Analytics](https://github.com/joshmadakor1/Algorithms-Practice)
-- [CompTIA Security+ SY0-701](https://github.com/joshmadakor1/Algorithms-Practice)
-- [CompTIA Network+ N10-008 (Estimated 3/15/24 ](https://github.com/joshmadakor1/Algorithms-Practice) 
-- [CompTIA A+ 220-1101 ](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Fullstack Cybersecurity Analytics](<img src="https://i.imgur.com/G7mmMsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>)
+- [CompTIA Security+ SY0-701](https://www.credly.com/earner/earned/badge/b7fd3e71-c28d-4acc-81e4-ae4121d9779a)
+- [CompTIA Network+ N10-008 (Estimated 3/15/24 ](https://www.comptia.org/certifications/network) 
+- [CompTIA A+ 220-1101 ](https://www.comptia.org/certifications/a)
 - Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress
 
 
