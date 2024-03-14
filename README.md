@@ -33,7 +33,7 @@
 <h2>🧑‍🎓📜🎓Education & Education:</h2>
  
 - [Fullstack Cybersecurity Analytics](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp)
-- [CompTIA Security+ SY0-701](https://www.credly.com/earner/earned/badge/b7fd3e71-c28d-4acc-81e4-ae4121d9779a)
+- [CompTIA Security+ SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+ N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+ 220-1101 ](https://www.comptia.org/certifications/a)
 - [Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html#transcriptPop)
