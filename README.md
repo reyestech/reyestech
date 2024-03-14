@@ -34,14 +34,14 @@
  
 - [Fullstack Cybersecurity Analytics](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp)
 - [CompTIA Security+ SY0-701](https://www.credly.com/earner/earned/badge/b7fd3e71-c28d-4acc-81e4-ae4121d9779a)
-- [CompTIA Network+ N10-008 (Estimated for 3/15/24) ](https://www.comptia.org/certifications/network) 
+- [CompTIA Network+ N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+ 220-1101 ](https://www.comptia.org/certifications/a)
 - [Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html#transcriptPop)
 
 
 
 <h2>🌐🍯Incoming Projects:</h2>
-<h3>In the upcoming weeks, I will share detailed Runbooks on my current Networking and Security Projects.
+<h3> I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.
 These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
   
   - Azure-SOC-Honeynet-Project (Live Traffic with Maps)
