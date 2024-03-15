@@ -30,7 +30,7 @@
 
     
     
-<h2>🧑‍🎓📜🎓Education & Education:</h2>
+<h2>🧑‍🎓📜🎓Certifications & Education:</h2>
  
 - [CompTIA Security+ SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+ N10-008](https://github.com/reyestech/Network-)
