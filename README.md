@@ -34,7 +34,7 @@
  
 - [CompTIA Security+ SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+ N10-008](https://github.com/reyestech/Network-)
-- [CompTIA A+ 220-1101 ](https://www.comptia.org/certifications/a)
+- [CompTIA A+ 220-1101 - 220-1102](https://www.comptia.org/certifications/a)
 - [Fullstack Cybersecurity Analytics](https://github.com/reyestech/Fullstack-Academy/tree/main)
 - [Western Governors University: Accelerated Bachelor's and Master’s in Information Technology - In Progress](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html#transcriptPop)
 
