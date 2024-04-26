@@ -17,7 +17,7 @@
     
 
 
-<h2>🛡️🔬Splunk Labs (BOTS):</h2>
+<h2>🛡️🔬Splunk Labs:</h2>
 
   - [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
    
