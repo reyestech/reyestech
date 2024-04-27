@@ -41,25 +41,21 @@
 
 
 <h2>🌐🍯Incoming Projects:</h2>
-<h3> I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.
+<h3> I will be sharing detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.
 These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
   
-  - Azure-SOC-Honeynet-Project (Live Traffic with Maps)
+  - Azure-SIEM-Honeynet-Project (Live Traffic with Maps)
     - <b>Task: Creating a SOC with Honeynet within Microsoft Azure with real-world cyber attacks 
-  - Raspberry Pi 5 Ultimate Home Lab - Docker containers
-    - <b>Home Assistant - Pi hole - Cloud Server   
-    - <b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects
+  - Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers
+    - <b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects. 
   - Portable Raspberry Pi VPN & Wireless Router
     - <b>Task:  Building an on-the-go safe hacking router
 
 
 <h2>📧☎️ Connect with me:</h2>
 
-[<img align="left" alt="Reyestech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <a href="https://linkedin.com/in/reyestech"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[linkedin]: https://linkedin.com/in/reyestech
 
 
 
