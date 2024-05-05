@@ -1,3 +1,4 @@
+![CG Guy](https://s5.ezgif.com/tmp/ezgif-5-de48eb9de7.gif)
 <h1>Hi, I'm Hector!🧑🏿‍💻🔍
 
 <h1 align="left">
