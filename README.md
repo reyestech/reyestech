@@ -1,7 +1,11 @@
-<h1>Hi, I'm Hector!🧑🏿‍💻
+<h1>Hi, I'm Hector!🧑🏿‍💻🔍
 
-  
-  <a href="https://www.linkedin.com/in/reyestech">   </b> Cybersecurity Professional 🔐</a>
+<h1 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&pause=1000&color=2A8BF7&repeat=false&random=false&width=600&lines=+++++++++++++++++++++++++++++++++++;Checkout+my+projects.;Networking+Labs+%F0%9F%9B%9C;Cybersecurity+Portfolio%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a> 
+
+</h1><br/>
 
   <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
@@ -17,7 +21,7 @@
     
 
 
-<h2>🛡️🔬Splunk Labs:</h2>
+<h2>👁️‍🗨️🔬Splunk Labs:</h2>
 
   - [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
    
