@@ -1,4 +1,6 @@
-![CG Guy](https://s5.ezgif.com/tmp/ezgif-5-de48eb9de7.gif)
+
+<img src="https://i.imgur.com/fVqez5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <h1>Hi, I'm Hector!🧑🏿‍💻🔍
 
 <h1 align="left">
