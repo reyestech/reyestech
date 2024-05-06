@@ -1,5 +1,6 @@
 
-<img src="https://i.imgur.com/fVqez5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![ezgif-5-be2d567c67-ezgif com-animated-gif-maker](https://github.com/reyestech/reyestech/assets/153461962/08dce7bd-4752-4321-b67c-85d0f2a80bd7)
+
 
 <h1>Hi, I'm Hector!🧑🏿‍💻🔍
 
