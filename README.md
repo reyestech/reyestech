@@ -13,7 +13,7 @@
 <h2>🍯🛡️ Honeynet trap in Azure Sentinel</h2>
 
   - [Honeynet in Azure & Cloud Security Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-  - 
+  
   - [KQL Queries Sheet For Azure Honeynet trap](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main)
 
 
@@ -60,12 +60,13 @@
 <h3> I will be sharing detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.
 These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
   
-  - Azure-SIEM-Honeynet-Project (Live Traffic with Maps)
-    - <b>Task: Creating a SOC with Honeynet within Microsoft Azure with real-world cyber attacks 
+  - Azure-Sentinal-Labs
+    - <b> Lab is completed, run-books for a step-by-step tutorial coming soon.
+    - <b> KQL and NIST Runbooks 
   - Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers
     - <b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects. 
   - Portable Raspberry Pi VPN & Wireless Router
-    - <b>Task:  Building an on-the-go safe hacking router
+    - <b>Task:  Building an on-the-go safe hacking set-up
 
 
 <h2>📧☎️ Connect with me:</h2>
