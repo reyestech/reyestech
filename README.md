@@ -11,9 +11,9 @@
 
 </h1><br/>
 
-<h2>🍯🛡️ Honeynet trap in Azure Sentinel</h2>
+<h2>🍯🛡️ Azure Sentinel </h2>
 
-  - [Honeynet in Azure & Cloud Security Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+  - [Azure Sentinel: Live Honeynet trap and Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
   
   - [KQL Queries Sheet For Azure Honeynet trap](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main)
 
