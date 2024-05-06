@@ -10,6 +10,15 @@
 
 </h1><br/>
 
+<h2>🍯🛡️ Honeynet trap in Azure Sentinel</h2>
+
+  - [Honeynet in Azure & Cloud Security Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+  - 
+  - [KQL Queries Sheet For Azure Honeynet trap](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main)
+
+
+</h1><br/>
+
   <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
   - [Elastic SIEM Lab](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
