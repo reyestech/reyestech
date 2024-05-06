@@ -4,6 +4,7 @@
 
 <h1>Hi, I'm Hector!🧑🏿‍💻🔍
 
+
 <h1 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" /></a>
 
