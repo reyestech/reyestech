@@ -17,7 +17,6 @@
   
   - [KQL Queries Sheet For Azure Honeynet trap](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main)
 
-
 </h1><br/>
 
   <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
