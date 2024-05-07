@@ -26,30 +26,30 @@
 
 </h1><br/>
 
-  <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
+<h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
-  - [Elastic SIEM Lab](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
+[Elastic SIEM Lab](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
 
-  - [UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
+[UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
 
-  - [BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
+[BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
     
-  - [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
+[NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
 
-  - [Fullstack Capstone Project Youtube Video](https://youtu.be/j60MCJAZG3s?si=VH1_Kj8-zQ4nG_Fd)
+[Fullstack Capstone Project Youtube Video](https://youtu.be/j60MCJAZG3s?si=VH1_Kj8-zQ4nG_Fd)
     
 
 
 <h2>👁️‍🗨️🔬Splunk Labs:</h2>
 
-  - [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
+[Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
    
-  - [Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
+[Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
 
 
 <h2>⚔️🥷 Penetration Testing Labs:</h2>
 
-  - [Nmap & Metasploit: Pentest Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
+[Nmap & Metasploit: Pentest Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 
     
     
