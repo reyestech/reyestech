@@ -64,16 +64,42 @@
 
 
 <h2>🌐🍯Incoming Projects:</h2>
-<h3> I will be sharing detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.
-These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
-  
-  - Azure-Sentinal-Labs
-    - <b> Lab is completed, run-books for a step-by-step tutorial coming soon.
-    - <b> KQL and NIST Runbooks 
-  - Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers
-    - <b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects. 
-  - Portable Raspberry Pi VPN & Wireless Router
-    - <b>Task:  Building an on-the-go safe hacking set-up
+<details>
+  <summary>Click to expand!</summary>
+  <div>
+    <h3>I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.<br>
+    These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
+    <details>
+      <summary>Azure-Sentinel-Labs</summary>
+      <div>
+        <ul>
+          <li><b>Lab is completed, run-books for a step-by-step tutorial coming soon.</b></li>
+          <li><b>KQL and NIST Runbooks</b></li>
+        </ul>
+      </div>
+    </details>    
+    <details>
+      <summary>Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers</summary>
+      <div>
+        <ul>
+          <li><b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects.</b></li>
+        </ul>
+      </div>
+    </details>    
+    <details>
+      <summary>Portable Raspberry Pi VPN & Wireless Router</summary>
+      <div>
+        <ul>
+          <li><b>Task: Building an on-the-go safe hacking set-up.</b></li>
+        </ul>
+      </div>
+    </details>    
+    <!-- Add links or any other additional information below -->
+    <a href="URL_TO_RESOURCE_1">Resource 1</a><br>
+    <a href="URL_TO_RESOURCE_2">Resource 2</a><br>
+    <!-- Add more links as needed -->
+  </div>
+</details>
 
 
 <h2>📧☎️ Connect with me:</h2>
