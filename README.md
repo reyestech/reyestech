@@ -65,7 +65,7 @@
 
 <h2>🌐🍯Incoming Projects:</h2>
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to see upcoming projects!</summary>
   <div>
     <h3>I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.<br>
     These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
@@ -95,8 +95,6 @@
       </div>
     </details>    
     <!-- Add links or any other additional information below -->
-    <a href="URL_TO_RESOURCE_1">Resource 1</a><br>
-    <a href="URL_TO_RESOURCE_2">Resource 2</a><br>
     <!-- Add more links as needed -->
   </div>
 </details>
