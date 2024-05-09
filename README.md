@@ -34,11 +34,9 @@
     
 [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
 
-[Fullstack Capstone Project Youtube Video](https://youtu.be/j60MCJAZG3s?si=VH1_Kj8-zQ4nG_Fd)
-
 [UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
 <details>
-  <summary>Click to see the YouTube video!</summary>
+  <summary>Capstone YouTube video!</summary>
   
   [![YouTube Video](https://img.youtube.com/vi/j60MCJAZG3s/0.jpg)](https://www.youtube.com/watch?v=j60MCJAZG3s)
 </details>
