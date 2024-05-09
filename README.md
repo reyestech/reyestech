@@ -16,9 +16,9 @@
 
 [Azure Sentinel: Live Honeynet trap and Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <details>
-    <summary>Click to here to see the KQL Queries Sheat Cheat!</summary>
+    <summary>KQL Queries Guidelines!</summary>
     <div>
-      <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries Guidelines </a><br>
+      <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries </a><br>
       <!-- Add more links as needed -->
     </div>
   </details>
