@@ -34,7 +34,7 @@
     
 [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
 
-[UTM | Linux Virtualization for Apple Silicone](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
+[UTM & Linux Virtualization for Apple M3 Silicone Tutorial](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
 <details>
   <summary>Capstone YouTube video!</summary>
   
