@@ -18,7 +18,7 @@
 <details>
     <summary>Click to here to see the KQL Queries Sheat Cheat!</summary>
     <div>
-      <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries Sheet For Azure Honeynet Trap</a><br>
+      <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries Guidelines </a><br>
       <!-- Add more links as needed -->
     </div>
   </details>
