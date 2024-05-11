@@ -14,7 +14,7 @@
 
 <h2>🍯🛡️ Azure Sentinel </h2>
 
-[Azure Sentinel: Live Honeynet trap and Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+[Azure Sentinel: Live Honeynet trap and implementing Azure Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <details>
     <summary>KQL Queries Guidelines!</summary>
     <div>
