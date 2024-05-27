@@ -52,7 +52,7 @@
 
 <h2>⚔️🥷 Penetration Testing:</h2>
 
-[Nmap & Metasploit: Pentest Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
+[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 
     
     
