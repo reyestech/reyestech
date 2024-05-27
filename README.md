@@ -28,7 +28,7 @@
 
 <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
-[Elastic SIEM Lab](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
+[Elastic SIEM](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
 
 [BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
     
@@ -43,14 +43,14 @@
 
 
 
-<h2>👁️‍🗨️🔬Splunk Labs:</h2>
+<h2>👁️‍🗨️🔬Splunk:</h2>
 
 [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
    
 [Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
 
 
-<h2>⚔️🥷 Penetration Testing Labs:</h2>
+<h2>⚔️🥷 Penetration Testing:</h2>
 
 [Nmap & Metasploit: Pentest Report](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 
