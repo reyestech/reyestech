@@ -16,6 +16,13 @@
 
 [Azure Sentinel: Live Honeynet trap and implementing Azure Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The project "Azure Honeynet and Sentinel Hardening" involves establishing a honeynet within Microsoft Azure to attract and analyze live attacks. This setup includes vulnerable virtual machines to simulate an insecure environment, with logs collected and analyzed by Microsoft Sentinel. The project follows a methodology of deploying VMs, collecting and monitoring log data, detecting and responding to incidents, and implementing security enhancements. After remediation, the environment is reassessed for improved security metrics, adhering to standards like NIST 800-53 and Microsoft Defender for Cloud recommendations.
+  </blockquote>
+</details>
+
+<details>
     <summary>KQL Queries Guidelines!</summary>
     <div>
       <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries </a><br>
@@ -23,18 +30,44 @@
     </div>
   </details>
 
-
 </h1><br/>
 
 <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
 [Elastic SIEM](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The "Elastic SIEM Lab Runbook" project involves creating an Elastic SIEM lab environment to monitor and protect a client's network. This setup connects systems using Kibana, Active Directory, and Port Forwarding, enabling remote monitoring through a single dashboard. The project addresses the challenge of dispersed teams across the US, providing real-time protection and insights into security events by utilizing tools like the ELK stack (Elasticsearch, Logstash, Kibana) and integrating various operating systems and environments.
+  </blockquote>
+</details>
 
 [BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
-    
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    This BeEF Browser Exploitation Framework Runbook project provides a detailed guide on using the Browser Exploitation Framework (BeEF) to perform penetration testing. It includes instructions for setting up the BeEF environment, hooking browsers, and exploiting browser vulnerabilities. The runbook also covers integrating BeEF with other tools for enhanced testing capabilities, demonstrating how to leverage browser-based attacks to gain insights into network security weaknesses.
+  </blockquote>
+</details>
+ 
 [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The "NMAP Runbook" is a comprehensive guide on using Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and the use of Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
+  </blockquote>
+</details>
 
 [UTM & Linux Virtualization for Apple M3 Silicone Tutorial](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
+
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The UTM Virtual Machines for M1/M2 Mac Kali Linux Tutorial provides a detailed guide on setting up Kali Linux virtual machines on macOS devices equipped with M1 and M2 chips using UTM (Universal Type Manager). The tutorial includes comprehensive step-by-step instructions and screenshots, making it accessible for users at all skill levels. It highlights the advantages of UTM’s ARM64 compatibility and hardware acceleration features, which ensure efficient performance and integration with macOS functionalities, enabling users to run Kali Linux smoothly on their Mac systems for tasks such as penetration testing and security research.
+  </blockquote>
+</details>
+
+<h3> Capstone Project Extras </h3>
 <details>
   <summary>Capstone YouTube video!</summary>
   
@@ -42,19 +75,39 @@
 </details>
 
 
-
 <h2>👁️‍🗨️🔬Splunk:</h2>
 
 [Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
-   
+
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The Splunk: Web Site Defacement project demonstrates the use of Splunk for investigating and mitigating website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on how to use Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
+  </blockquote>
+</details>
+
 [Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
+
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The Splunk: Ransomware project focuses on using Splunk for detecting, analyzing, and mitigating ransomware attacks. The project provides a detailed runbook on investigating ransomware incidents, including examining network traffic, identifying compromised files, and analyzing suspicious activities using various Splunk queries. It utilizes tools like Windows Sandbox, VirusTotal, and Suricata for comprehensive threat analysis and demonstrates how to handle ransomware scenarios through practical exercises.
+  </blockquote>
+</details>
+
+
 
 
 <h2>⚔️🥷 Penetration Testing:</h2>
 
 [Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on “Stackfull Software's” network. The project utilizes tools such as Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client’s cybersecurity posture.
+  </blockquote>
+</details>
 
-    
     
 <h2>🧑‍🎓📜🎓Certifications & Education:</h2>
  
@@ -62,7 +115,6 @@
 - [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 - [Fullstack Cybersecurity Analytics Certification](https://github.com/reyestech/Fullstack-Academy/tree/main)
-
 
 
 
