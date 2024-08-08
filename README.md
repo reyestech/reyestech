@@ -63,7 +63,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The UTM Virtual Machines for M1/M2 Mac Kali Linux Tutorial provides a detailed guide on setting up Kali Linux virtual machines on macOS devices equipped with M1 and M2 chips using UTM (Universal Type Manager). The tutorial includes comprehensive step-by-step instructions and screenshots, making it accessible for users at all skill levels. It highlights the advantages of UTM’s ARM64 compatibility and hardware acceleration features, which ensure efficient performance and integration with macOS functionalities, enabling users to run Kali Linux smoothly on their Mac systems for tasks such as penetration testing and security research.
+    The UTM Virtual Machines for M1/M2 Mac Kali Linux Tutorial provides a detailed guide on setting up Kali Linux virtual machines on macOS devices equipped with M1 and M2 chips using UTM (Universal Type Manager). The tutorial includes comprehensive step-by-step instructions and screenshots, making it accessible for users at all skill levels. It highlights the advantages of UTM’s ARM64 compatibility and hardware acceleration features, which ensure efficient performance and integration with macOS functionalities, enabling users to run Kali Linux smoothly on their Mac systems for penetration testing and security research tasks.
   </blockquote>
 </details>
 
@@ -82,7 +82,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Splunk: Web Site Defacement project demonstrates the use of Splunk for investigating and mitigating website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on how to use Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
+    The Splunk: Web Site Defacement project demonstrates the use of Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
   </blockquote>
 </details>
 
@@ -91,7 +91,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Splunk: Ransomware project focuses on using Splunk for detecting, analyzing, and mitigating ransomware attacks. The project provides a detailed runbook on investigating ransomware incidents, including examining network traffic, identifying compromised files, and analyzing suspicious activities using various Splunk queries. It utilizes tools like Windows Sandbox, VirusTotal, and Suricata for comprehensive threat analysis and demonstrates how to handle ransomware scenarios through practical exercises.
+    The Splunk: Ransomware project focuses on using Splunk to detect, analyze, and mitigate ransomware attacks. The project provides a detailed runbook for investigating ransomware incidents, including examining network traffic, identifying compromised files, and analyzing suspicious activities using various Splunk queries. It utilizes tools like Windows Sandbox, VirusTotal, and Suricata for comprehensive threat analysis and demonstrates how to handle ransomware scenarios through practical exercises.
   </blockquote>
 </details>
 
@@ -100,7 +100,7 @@
 
 <h2>⚔️🥷 Penetration Testing:</h2>
 
-[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Hashcat/tree/main)
+[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 <details>
   <summary>Project Description</summary>
   <blockquote>
