@@ -54,7 +54,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The "NMAP Runbook" is a comprehensive guide on using Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and the use of Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
+    The "NMAP Runbook" is a comprehensive guide for Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and using Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
   </blockquote>
 </details>
 
@@ -82,7 +82,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Splunk: Web Site Defacement project demonstrates the use of Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
+    The Splunk: Web Site Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
   </blockquote>
 </details>
 
@@ -121,7 +121,7 @@
 - [CompTIA Security+: SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
-- [Fullstack Cybersecurity Analytics Certification](https://github.com/reyestech/Fullstack-Academy/tree/main)
+- [Fullstack Academy: Cybersecurity Analytics](https://github.com/reyestech/Fullstack-Academy/tree/main)
 
 
 
