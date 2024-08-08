@@ -30,7 +30,7 @@
     </div>
   </details>
 
-</h1><br/>
+</h1>
 
 <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
