@@ -108,7 +108,7 @@
   </blockquote>
 </details>
 
-[Hashcat: Password Cracking](READ)
+[Hashcat: Password Cracking](https://github.com/reyestech/Hashcat/tree/main)
 <details>
   <summary>Project Description</summary>
   <blockquote>
