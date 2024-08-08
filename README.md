@@ -100,7 +100,7 @@
 
 <h2>⚔️🥷 Penetration Testing:</h2>
 
-[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
+[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Hashcat/tree/main)
 <details>
   <summary>Project Description</summary>
   <blockquote>
@@ -108,6 +108,13 @@
   </blockquote>
 </details>
 
+[Hashcat: Password Cracking](READ)
+<details>
+  <summary>Project Description</summary>
+  <blockquote>
+    The project provides a detailed walkthrough of a Capture The Flag (CTF) challenge focused on cracking an NTLM password hash using Hashcat and the rockyou.txt wordlist in a Kali Linux environment. It emphasizes the importance of identifying hash types, setting up the appropriate tools, and applying effective password-cracking strategies, all of which are educational purposes to enhance cybersecurity skills.
+  </blockquote>
+</details>
     
 <h2>🧑‍🎓📜🎓Certifications & Education:</h2>
  
