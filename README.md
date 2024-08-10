@@ -12,6 +12,9 @@
 
 </h1><br/>
 
+Disclaimer
+It is important to note that this is for educational purposes only. Unauthorized hacking or cracking of passwords without permission is illegal and unethical.
+
 <h2>🍯🛡️ Azure Sentinel </h2>
 
 [Azure Sentinel: Live Honeynet trap and implementing Azure Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
