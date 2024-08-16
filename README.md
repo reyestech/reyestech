@@ -121,6 +121,7 @@
 - [CompTIA Security+: SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
+- [AWS Certified Cloud Practitioner: CLF-C02](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
 - [Fullstack Academy: Cybersecurity Analytics](https://github.com/reyestech/Fullstack-Academy/tree/main)
 
 
