@@ -14,7 +14,7 @@
 <h5>Disclaimer <br/>
  My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always adhere to legal and ethical standards when engaging in cybersecurity activities.</h5>
 
-[Azure Sentinel: Live Honeynet trap and implementing Azure Cloud Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+[Azure Honeynet and Sentinel Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <details>
   <summary>Project Description</summary>
   <blockquote>
