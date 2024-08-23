@@ -10,6 +10,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&pause=1000&color=2A8BF7&repeat=false&random=false&width=600&lines=+++++++++++++++++++++++++++++++++++;Checkout+my+projects.;Networking+Labs+%F0%9F%9B%9C;Cybersecurity+Portfolio%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
+
+
 </h1>
 <h5>Disclaimer <br/>
  My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always adhere to legal and ethical standards when engaging in cybersecurity activities.</h5>
