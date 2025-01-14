@@ -85,7 +85,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Splunk: Web Site Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook on using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
+    The Splunk: Web Site Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
   </blockquote>
 </details>
 
@@ -107,7 +107,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on “Stackfull Software's” network. The project utilizes tools such as Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client’s cybersecurity posture.
+    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on “Stackfull Software's” network. The project utilizes tools like Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client’s cybersecurity posture.
   </blockquote>
 </details>
 
