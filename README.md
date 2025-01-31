@@ -120,7 +120,8 @@
 </details>
     
 <h2>🧑‍🎓📜🎓Certifications & Education:</h2>
- 
+
+- [CompTIA CySA++: CS0-003](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md)
 - [CompTIA Security+: SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
 - [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
