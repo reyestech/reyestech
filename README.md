@@ -32,6 +32,9 @@ Deployed a honeynet in Microsoft Azure using intentionally vulnerable VMs to sim
 
 </h1>
 
+[📊🔧 **Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)  
+Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, and port forwarding to support remote teams.
+
 <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
 [Elastic SIEM](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
