@@ -21,7 +21,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The project "Azure Honeynet and Sentinel Hardening" involves establishing a honeynet within Microsoft Azure to attract and analyze live attacks. This setup includes vulnerable virtual machines to simulate an insecure environment, with logs collected and analyzed by Microsoft Sentinel. The project follows a methodology of deploying VMs, collecting and monitoring log data, detecting and responding to incidents, and implementing security enhancements. After remediation, the environment is reassessed for improved security metrics, adhering to standards like NIST 800-53 and Microsoft Defender for Cloud recommendations.
+    The project "Azure Honeynet and Sentinel Hardening" involves establishing a honeynet within Microsoft Azure to attract and analyze live attacks. This setup includes vulnerable virtual machines to simulate an insecure environment, with logs collected and analyzed by Microsoft Sentinel. The project follows a methodology of deploying virtual machines (VMs), collecting and monitoring log data, detecting and responding to incidents, and implementing security enhancements. After remediation, the environment is reassessed to improve security metrics, adhering to standards such as NIST 800-53 and Microsoft Defender for Cloud recommendations.
   </blockquote>
 </details>
 
@@ -57,7 +57,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The "NMAP Runbook" is a comprehensive guide for Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and using Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
+    The "NMAP Runbook" is a comprehensive guide for Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and using Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, as well as legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
   </blockquote>
 </details>
 
@@ -85,7 +85,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Splunk: Web Site Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook using Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal, Windows Sandbox, and others for comprehensive threat analysis.
+    The Splunk: Website Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook that utilizes Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal and Windows Sandbox for comprehensive threat analysis.
   </blockquote>
 </details>
 
@@ -107,7 +107,7 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on “Stackfull Software's” network. The project utilizes tools like Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client’s cybersecurity posture.
+    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on "Stackfull Software's" network. The project utilizes tools like Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client's cybersecurity posture.
   </blockquote>
 </details>
 
@@ -115,11 +115,11 @@
 <details>
   <summary>Project Description</summary>
   <blockquote>
-    The project provides a detailed walkthrough of a Capture The Flag (CTF) challenge focused on cracking an NTLM password hash using Hashcat and the rockyou.txt wordlist in a Kali Linux environment. It emphasizes the importance of identifying hash types, setting up the appropriate tools, and applying effective password-cracking strategies, all of which are educational purposes to enhance cybersecurity skills.
+    The project provides a detailed walkthrough of a Capture the Flag (CTF) challenge, focusing on cracking an NTLM password hash using Hashcat and the rockyou.txt word list in a Kali Linux environment. It emphasizes the importance of identifying hash types, setting up the appropriate tools, and applying effective password-cracking strategies, all of which are educational purposes to enhance cybersecurity skills.
   </blockquote>
 </details>
     
-<h2>🧑‍🎓📜🎓Certifications & Education:</h2>
+<h2>🧑‍🎓📜🎓Certifications:</h2>
 
 - [CompTIA CySA++: CS0-003](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md)
 - [CompTIA Security+: SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
@@ -136,15 +136,6 @@
   <div>
     <h3>I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.<br>
     These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
-    <details>
-      <summary>Azure-Sentinel-Labs</summary>
-      <div>
-        <ul>
-          <li><b>Lab is completed, run-books for a step-by-step tutorial coming soon.</b></li>
-          <li><b>KQL and NIST Runbooks</b></li>
-        </ul>
-      </div>
-    </details>    
     <details>
       <summary>Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers</summary>
       <div>
