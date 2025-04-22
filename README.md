@@ -32,45 +32,22 @@ Deployed a honeynet in Microsoft Azure using intentionally vulnerable VMs to sim
 
 </h1>
 
-[📊🔧 **Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)  
-Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, and port forwarding to support remote teams.
-
 <h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
 
-[Elastic SIEM](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The "Elastic SIEM Lab Runbook" project involves creating an Elastic SIEM lab environment to monitor and protect a client's network. This setup connects systems using Kibana, Active Directory, and Port Forwarding, enabling remote monitoring through a single dashboard. The project addresses the challenge of dispersed teams across the US, providing real-time protection and insights into security events by utilizing tools like the ELK stack (Elasticsearch, Logstash, Kibana) and integrating various operating systems and environments.
-  </blockquote>
-</details>
+[📊 **Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)  
+Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, and port forwarding to support remote teams.
 
-[BeEF (Browser Exploitation Framework) Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    This BeEF Browser Exploitation Framework Runbook project provides a detailed guide on using the Browser Exploitation Framework (BeEF) to perform penetration testing. It includes instructions for setting up the BeEF environment, hooking browsers, and exploiting browser vulnerabilities. The runbook also covers integrating BeEF with other tools for enhanced testing capabilities, demonstrating how to leverage browser-based attacks to gain insights into network security weaknesses.
-  </blockquote>
-</details>
- 
-[NMAP Runbook](https://github.com/reyestech/NMAP-Runbook)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The "NMAP Runbook" is a comprehensive guide for Nmap, a powerful network scanning tool. It covers essential topics such as network mapping, port scanning, service version detection, operating system detection, and using Nmap's scripting engine for advanced tasks. The runbook also includes examples of common scan types and options, as well as legal and ethical considerations, and tips for effective use. The guide is designed to help users perform security assessments and network analysis efficiently.
-  </blockquote>
-</details>
+[🐄 **BeEF (Browser Exploitation Framework) Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)  
+Documented the setup and use of BeEF to perform browser-based attacks and demonstrate network exploitation via hooked browsers.
 
-[UTM & Linux Virtualization for Apple M3 Silicone Tutorial](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)
+[🌐 **NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook)  
+Created a guide on using Nmap for network mapping, port scanning, and OS detection, including NSE scripting for security assessments.
 
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The UTM Virtual Machines for M1/M2 Mac Kali Linux Tutorial provides a detailed guide on setting up Kali Linux virtual machines on macOS devices equipped with M1 and M2 chips using UTM (Universal Type Manager). The tutorial includes comprehensive step-by-step instructions and screenshots, making it accessible for users at all skill levels. It highlights the advantages of UTM’s ARM64 compatibility and hardware acceleration features, which ensure efficient performance and integration with macOS functionalities, enabling users to run Kali Linux smoothly on their Mac systems for penetration testing and security research tasks.
-  </blockquote>
-</details>
+[🐧**UTM & Linux Virtualization for Apple M3 Tutorial**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)  
+Step-by-step setup of Kali Linux on M1/M2/M3 Macs using UTM with ARM64 support for efficient security testing environments.
 
-<h3> Capstone Project Extras </h3>
+
+<h3> Capstone Project Video </h3>
 <details>
   <summary>Capstone YouTube video!</summary>
   
@@ -80,28 +57,20 @@ Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, 
 
 <h2>👁️‍🗨️🔬Splunk:</h2>
 
-[Splunk: Website Defacement](https://github.com/reyestech/Splunk-Web-Site-Defacement)
+[🕵️‍♂️**Splunk: Website Defacement**](https://github.com/reyestech/Splunk-Web-Site-Defacement)  
+Used Splunk to investigate and respond to website defacement attacks, utilizing log analysis, VirusTotal, and Windows Sandbox.
 
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The Splunk: Website Defacement project demonstrates how to use Splunk to investigate and mitigate website defacement attacks. The project guides users through various steps, including identifying the source of the attack, analyzing traffic patterns, and finding malicious files. It provides a detailed runbook that utilizes Splunk’s capabilities to monitor, detect, and respond to security incidents, leveraging tools like VirusTotal and Windows Sandbox for comprehensive threat analysis.
-  </blockquote>
-</details>
+[💣**Splunk: Ransomware**](https://github.com/reyestech/Splunk-Ransomware)  
+Built a Splunk-based runbook to detect and analyze ransomware attacks, leveraging Suricata, VirusTotal, and live threat monitoring.
 
-[Splunk: Ransomware](https://github.com/reyestech/Splunk-Ransomware)
+<h2>🥷⚔️ Penetration Testing:</h2>
 
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The Splunk: Ransomware project focuses on using Splunk to detect, analyze, and mitigate ransomware attacks. The project provides a detailed runbook for investigating ransomware incidents, including examining network traffic, identifying compromised files, and analyzing suspicious activities using various Splunk queries. It utilizes tools like Windows Sandbox, VirusTotal, and Suricata for comprehensive threat analysis and demonstrates how to handle ransomware scenarios through practical exercises.
-  </blockquote>
-</details>
+[📋 **Pentest Report: Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)  
+Performed full-scope penetration testing using Nmap, Metasploit, and Wireshark to simulate real-world attacks on a client network.
 
+[🐈‍⬛ **Hashcat: Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)  
+Completed a CTF challenge using Hashcat to crack NTLM hashes with rockyou.txt in Kali Linux, demonstrating password audit skills.
 
-
-
-<h2>⚔️🥷 Penetration Testing:</h2>
 
 [Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
 <details>
@@ -118,6 +87,8 @@ Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, 
     The project provides a detailed walkthrough of a Capture the Flag (CTF) challenge, focusing on cracking an NTLM password hash using Hashcat and the rockyou.txt word list in a Kali Linux environment. It emphasizes the importance of identifying hash types, setting up the appropriate tools, and applying effective password-cracking strategies, all of which are educational purposes to enhance cybersecurity skills.
   </blockquote>
 </details>
+
+
     
 <h2>🧑‍🎓📜🎓Certifications:</h2>
 
@@ -126,7 +97,7 @@ Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, 
 - [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
 - [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 - [AWS Certified Cloud Practitioner: CLF-C02](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
-- [Fullstack Academy: Cybersecurity Analytics](https://github.com/reyestech/Fullstack-Academy/tree/main)
+- [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main)
 
 
 
