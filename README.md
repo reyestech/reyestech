@@ -17,13 +17,10 @@
 <h5>Disclaimer <br/>
  My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always adhere to legal and ethical standards when engaging in cybersecurity activities.</h5>
 
-[Azure Honeynet and Sentinel Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The project "Azure Honeynet and Sentinel Hardening" involves establishing a honeynet within Microsoft Azure to attract and analyze live attacks. This setup includes vulnerable virtual machines to simulate an insecure environment, with logs collected and analyzed by Microsoft Sentinel. The project follows a methodology of deploying virtual machines (VMs), collecting and monitoring log data, detecting and responding to incidents, and implementing security enhancements. After remediation, the environment is reassessed to improve security metrics, adhering to standards such as NIST 800-53 and Microsoft Defender for Cloud recommendations.
-  </blockquote>
-</details>
+[☁️🔐 **Azure Honeynet & Microsoft Sentinel Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)  
+Deployed a honeynet in Microsoft Azure using intentionally vulnerable VMs to simulate real-world attacks. Monitored and analyzed attack data with Microsoft Sentinel, applied security hardening based on NIST 800-53 and Microsoft Defender for Cloud, and reassessed to enhance detection and response capabilities.
+
+
 
 <details>
     <summary>KQL Queries Guidelines!</summary>
