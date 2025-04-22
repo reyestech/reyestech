@@ -11,13 +11,21 @@
 
 </h1>
 
-</h1>
+<h1>👋 Hi there!</h1>
 
-</h1>
-<h5>Disclaimer <br/>
- My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always adhere to legal and ethical standards when engaging in cybersecurity activities.</h5>
+<p>Welcome to my GitHub profile! </p>
+Here, I showcase my portfolio and share detailed walkthroughs of my networking and cybersecurity projects. Thanks for stopping by!</p>
 
-[☁️🔐 **Azure Honeynet & Microsoft Sentinel Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)  
+<p>I’m a U.S. military veteran with a B.S. in Cybersecurity Technology from the University of Maryland Global Campus and a passion for hands-on problem solving. Currently, I’m focused on expanding my skills in IT automation with Python—building scripts and tools to streamline security operations and system management.</p>
+
+<p>I also enjoy tinkering in my home lab. Whether I'm spinning up Kubernetes clusters on NUCs, deploying Docker containers, or creating virtualized environments, I love testing tools, automating deployments, and learning through real-world experimentation—even if it means breaking things just to fix them again.</p>
+
+<h5>⚠️ Disclaimer</h5>
+<p><i>My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always follow legal and ethical guidelines when engaging in cybersecurity activities.</i></p>
+
+<h2> 🪟 AZURE SIEM </h2>
+    
+[☁️🔷 **Azure Honeynet & Microsoft Sentinel Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)  
 Deployed a honeynet in Microsoft Azure using intentionally vulnerable VMs to simulate real-world attacks. Monitored and analyzed attack data with Microsoft Sentinel, applied security hardening based on NIST 800-53 and Microsoft Defender for Cloud, and reassessed to enhance detection and response capabilities.
 
 
@@ -71,25 +79,6 @@ Performed full-scope penetration testing using Nmap, Metasploit, and Wireshark t
 [🐈‍⬛ **Hashcat: Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)  
 Completed a CTF challenge using Hashcat to crack NTLM hashes with rockyou.txt in Kali Linux, demonstrating password audit skills.
 
-
-[Pentest Report: Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The Penetration Test Report: Nmap-Metasploit is a comprehensive guide for conducting penetration tests on "Stackfull Software's" network. The project utilizes tools like Nmap, Metasploit, Wireshark, and Burp Suite to identify and exploit vulnerabilities. The report details the process of network reconnaissance, initial compromise, pivoting, and privilege escalation, culminating in recommendations for improving network security. The goal is to validate internal security controls and provide actionable insights to enhance the client's cybersecurity posture.
-  </blockquote>
-</details>
-
-[Hashcat: Password Cracking](https://github.com/reyestech/Hashcat/tree/main)
-<details>
-  <summary>Project Description</summary>
-  <blockquote>
-    The project provides a detailed walkthrough of a Capture the Flag (CTF) challenge, focusing on cracking an NTLM password hash using Hashcat and the rockyou.txt word list in a Kali Linux environment. It emphasizes the importance of identifying hash types, setting up the appropriate tools, and applying effective password-cracking strategies, all of which are educational purposes to enhance cybersecurity skills.
-  </blockquote>
-</details>
-
-
-    
 <h2>🧑‍🎓📜🎓Certifications:</h2>
 
 - [CompTIA CySA++: CS0-003](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md)
