@@ -10,28 +10,30 @@
 
 </h2>
 
-<b> 👋 Welcome to my GitHub page! </b>
+----
+
+<h3>👋 My GitHub page!</h3>
 
 <p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. </p>
 <p> Thank you for stopping by! </p>
 
-----
 
-<h3>🎖️ About Me</h3>
+<h2>🎖️ About Me</h2>
 
 <p> I am a veteran with a B.S. in Cybersecurity Technology, driven by a passion for technology, cybersecurity, networking, hands-on problem-solving, and IT automation. I actively enhance my skills through real-world experimentation and practical challenges. </p>
 
-<p> I enjoy building and configuring PCs and managing my Homelab, where I explore and deploy various technologies. Whether running containerized applications with Docker, orchestrating systems with Kubernetes, or creating virtualized environments to test security controls and configurations, I thrive on the challenge of building and troubleshooting. I believe in learning through practical experimentation and trial and error, even if it means breaking things along the way to better understand them. After all, hands-on experience is the best teacher! </p>
+<p> I enjoy building and configuring PCs and managing my Homelab, where I explore and deploy various technologies. Whether running containerized applications with Docker, orchestrating systems with Kubernetes, or creating virtualized environments to test security controls and configurations, I thrive on the challenge of building and troubleshooting. I believe in learning through practical experimentation and trial and error, even if it means breaking things along the way to gain a better understanding. After all, hands-on experience is the best teacher! </p>
 <p> Thank you again for visiting my page—feel free to explore my repositories to see my work in action! </p>
 
 <h6>⚠️ Disclaimer! 
     All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
+    
 ---
 
 <h2>🚀 Featured Projects</h2>
 
 ### [🔷 Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-Built a SOC environment in Azure using Sentinel SIEM. Deployed a honeynet to monitor real-world cyberattacks, enhancing threat detection, incident response, and cloud security.
+Built a cloud-based SOC environment in Azure using Sentinel SIEM. Deployed a honeynet to monitor real-world cyberattacks, enhancing threat detection, incident response, and cloud security.
 
 <details>
   <summary>📑 Sentinel KQL Queries</summary>
@@ -41,10 +43,10 @@ Built a SOC environment in Azure using Sentinel SIEM. Deployed a honeynet to mon
 </details>
 
 ### 🖥️ Fullstack Academy: Capstone Project Runbooks
-- [Elastic SIEM Lab Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring.
+- [Elastic SIEM Lab Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.
 - [BeEF Browser Exploitation Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md): Guide for browser-based exploitation scenarios.
-- [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook): Network mapping and vulnerability assessments.
-- [UTM Linux Virtualization for Apple M3](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Kali Linux virtualization guide for M-series Macs.
+- [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook):  Comprehensive NMAP guide for network mapping and vulnerability assessments.
+- [UTM Linux Virtualization: Apple M3](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Comprehensive virtualization guide for M-series Mac users.
 
 <details>
   <summary>🎥 Capstone Project Demo</summary>
@@ -54,12 +56,12 @@ Built a SOC environment in Azure using Sentinel SIEM. Deployed a honeynet to mon
 </details>
 
 ### 🕵️ Splunk Security Investigations
-- [Website Defacement Analysis](https://github.com/reyestech/Splunk-Web-Site-Defacement): Incident response using Splunk and VirusTotal.
-- [Ransomware Detection & Response](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection using Splunk and Suricata.
+- [Website Defacement Analysis](https://github.com/reyestech/Splunk-Web-Site-Defacement): Web server cyber attack, incident response runbook using Splunk.
+- [Ransomware Detection & Response](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection runbook using Splunk and Suricata.
 
 ### 🎯 Penetration Testing
-- [Pentest Report with Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Conducted simulated network penetration testing.
-- [Hashcat Password Cracking](https://github.com/reyestech/Hashcat/tree/main): Demonstrated password auditing using Hashcat.
+- [Pentest Report with Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark. 
+- [Hashcat Password Cracking](https://github.com/reyestech/Hashcat/tree/main): Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.
 
 ---
 
