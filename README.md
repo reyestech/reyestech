@@ -20,8 +20,9 @@ Here, I showcase my portfolio and share detailed walkthroughs of my networking a
 
 <p>I also enjoy tinkering in my home lab. Whether I'm spinning up Kubernetes clusters on NUCs, deploying Docker containers, or creating virtualized environments, I love testing tools, automating deployments, and learning through real-world experimentation—even if it means breaking things just to fix them again.</p>
 
-<h5>⚠️ Disclaimer</h5>
-<p><i>My projects are intended solely for educational purposes. Unauthorized access to networks, hacking, or password cracking without explicit permission is illegal and unethical. Always follow legal and ethical guidelines when engaging in cybersecurity activities.</i></p>
+<h6>⚠️ Disclaimer: 
+    This content is intended solely for educational purposes. Always follow ethical and legal guidelines in all cybersecurity activities. </h6>
+
 
 <h2> 🪟 AZURE SIEM </h2>
     
