@@ -73,18 +73,6 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
 
 ---
 
-<h2>🛠️ Upcoming Projects</h2>
-
-<details>
-  <summary>🔨Click to see what's coming soon!</summary>
-  <ul>
-    <li><b>Raspberry Pi 5: All-in-One Docker-based HomeLab with Pi-hole</b></li>
-    <li><b>Portable Raspberry Pi VPN & Wireless Router</b></li>
-  </ul>
-</details>
-
----
-
 <h2>📫 Connect with Me</h2>
 
 <a href="https://linkedin.com/in/reyestech">
@@ -95,12 +83,33 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
+
 ---
 
-<h2 align="center">🐍 GitHub Contributions 🐍</h2>
+<h2 align="center">🐍 Thanks for stopping by 👋 🐍</h2>
+<h3 align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  </h2>
 
-<div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
+  
+<h2>🛠️ Upcoming Projects</h2>
 
-
+<details>
+  <summary>🔨Click to see what's coming soon!</summary>
+  <ul>
+    <li><b>Raspberry Pi 5: All-in-One Docker-based HomeLab with Pi-hole</b></li>
+    <li><b>Portable Raspberry Pi VPN & Wireless Router</b></li>
+  </ul>
+</details>
