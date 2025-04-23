@@ -1,7 +1,7 @@
 
 ----
 
-<h1> Hi, I'm Hector! 🧑🏿‍💻🔍</h1>
+<h1> Hi, I'm Hector!🧑🏿‍💻</h1>
 
 <h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
@@ -32,7 +32,7 @@
 
 <h2>🚀 Featured Projects</h2>
 
-### [🔷 Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+### 🪟[ Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the cloud environment.
 
 <details>
@@ -59,7 +59,7 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
 - [Website Defacement Analysis](https://github.com/reyestech/Splunk-Web-Site-Defacement): Web server cyber attack, incident response runbook using Splunk.
 - [Ransomware Detection & Response](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection runbook using Splunk and Suricata.
 
-### 🎯 Penetration Testing
+### 🥷 Penetration Testing
 - [Pentest Report with Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark. 
 - [Hashcat Password Cracking](https://github.com/reyestech/Hashcat/tree/main): Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.
 
@@ -67,7 +67,7 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
 
 <h2>📜 Certifications</h2>
 
-- 🔎 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
+- 📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
 
 - 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 
