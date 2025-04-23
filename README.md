@@ -10,17 +10,17 @@
 
 </h2>
 
-----
 
-<h3>👋 My GitHub page!</h3>
+<h3>👋 My GitHub!</h3>
 
-<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. </p>
-<p> Thank you for stopping by! </p>
+<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. </p> 
+<p> Thank you for stopping by! </p> 
 
 
-<h2>🎖️ About Me</h2>
+<h3>🎖️ About Me </h3>
 
-<p> I am a veteran with a B.S. in Cybersecurity Technology, driven by a passion for technology, cybersecurity, networking, hands-on problem-solving, and IT automation. I actively enhance my skills through real-world experimentation and practical challenges. </p>
+<p> I'm a U.S.-based IT professional and veteran with a B.S. in Cybersecurity Technology, driven by a passion for technology, cybersecurity, hands-on problem-solving, and automation. I actively build on my skills through real-world experimentation and practical challenges.
+ </p>
 
 <p> I enjoy building and configuring PCs and managing my Homelab, where I explore and deploy various technologies. Whether running containerized applications with Docker, orchestrating systems with Kubernetes, or creating virtualized environments to test security controls and configurations, I thrive on the challenge of building and troubleshooting. I believe in learning through practical experimentation and trial and error, even if it means breaking things along the way to gain a better understanding. After all, hands-on experience is the best teacher! </p>
 <p> Thank you again for visiting my page—feel free to explore my repositories to see my work in action! </p>
@@ -32,24 +32,26 @@
 
 <h2> 🛠️ Featured Projects</h2>
 
-### 🪟[ Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-
-Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
+### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+[**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+<p> Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
   cloud environment.
-
+    
 - <details>
   <summary>📑 Sentinel KQL Queries</summary>
   <ul>
     <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
   </ul>
 </details>
+</details>
 
+<p> 
 
-### 🖥️ Fullstack Academy: Capstone Project Runbooks
-🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
-🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md): Guide for browser-based exploitation scenarios.  
-🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook): Comprehensive NMAP guide for network mapping and vulnerability assessments.  
-🔸 [**UTM Linux Virtualization: Apple M3**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Virtualization guide for M-series Mac users.  
+### 🖥️ Fullstack Academy: Capstone Projects 
+🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
+🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.  
+🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) Comprehensive NMAP guide for network mapping and vulnerability assessments.  
+🔸 [**UTM Linux Virtualization: Apple M3**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main) Virtualization guide for M-series Mac users.  
  
  <details>
   <summary>🎥 Fullstack Academy: Capstone Project Video Demo</summary>
@@ -60,12 +62,12 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
 
 
 ### 🕵️ Splunk Security Investigations
-🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement): Web server cyber attack, incident response runbook using Splunk.  
-🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection runbook using Splunk and Suricata.  
+🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Web server cyber attack, incident response runbook using Splunk.  
+🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
-### 🥷 Penetration Testing
-🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
-🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main): Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.  
+### 🥷 Penetration Testing and Analysis Runbooks
+🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
+🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.  
 
 ---
 
