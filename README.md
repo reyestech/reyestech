@@ -30,50 +30,54 @@
     
 ---
 
-<h2>🚀 Featured Projects</h2>
+<h2> 🛠️ Featured Projects</h2>
 
 ### 🪟[ Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the cloud environment.
 
-<details>
+Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
+  cloud environment.
+
+- <details>
   <summary>📑 Sentinel KQL Queries</summary>
   <ul>
     <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
   </ul>
 </details>
 
-### 🖥️ Fullstack Academy: Capstone Project Runbooks
-- [Elastic SIEM Lab Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.
-- [BeEF Browser Exploitation Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md): Guide for browser-based exploitation scenarios.
-- [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook):  Comprehensive NMAP guide for network mapping and vulnerability assessments.
-- [UTM Linux Virtualization: Apple M3](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Comprehensive virtualization guide for M-series Mac users.
 
-<details>
-  <summary>🎥 Capstone Project Demo</summary>
+### 🖥️ Fullstack Academy: Capstone Project Runbooks
+🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
+🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md): Guide for browser-based exploitation scenarios.  
+🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook): Comprehensive NMAP guide for network mapping and vulnerability assessments.  
+🔸 [**UTM Linux Virtualization: Apple M3**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Virtualization guide for M-series Mac users.  
+ 
+ <details>
+  <summary>🎥 Fullstack Academy: Capstone Project Video Demo</summary>
   <a href="https://www.youtube.com/watch?v=j60MCJAZG3s">
     <img src="https://img.youtube.com/vi/j60MCJAZG3s/0.jpg" alt="YouTube Video" />
   </a>
-</details>
+  </details>
+
 
 ### 🕵️ Splunk Security Investigations
-- [Website Defacement Analysis](https://github.com/reyestech/Splunk-Web-Site-Defacement): Web server cyber attack, incident response runbook using Splunk.
-- [Ransomware Detection & Response](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection runbook using Splunk and Suricata.
+🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement): Web server cyber attack, incident response runbook using Splunk.  
+🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection runbook using Splunk and Suricata.  
 
 ### 🥷 Penetration Testing
-- [Pentest Report with Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark. 
-- [Hashcat Password Cracking](https://github.com/reyestech/Hashcat/tree/main): Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.
+🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
+🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main): Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.  
 
 ---
 
-<h2>📜 Certifications</h2>
+<h2> 📜 Certifications</h2>
 
-- 📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
+📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
 
-- 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
+🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 
 ---
 
-<h2>📫 Connect with Me</h2>
+<h2> 📫 Connect with Me</h2>
 
 <a href="https://linkedin.com/in/reyestech">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -86,7 +90,7 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
 
 ---
 
-<h2 align="center">🐍 Thanks for stopping by 👋 🐍</h2>
+<h2 align="center"> 🐍 Thanks for stopping by 👋 🐍 </h2>
 <h3 align="center">
 <picture>
   <source
@@ -104,10 +108,10 @@ Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet
   </h2>
 
   
-<h2>🛠️ Upcoming Projects</h2>
+<h2> 🔨Upcoming Projects</h2>
 
 <details>
-  <summary>🔨Click to see what's coming soon!</summary>
+  <summary> Click to see what's coming soon!</summary>
   <ul>
     <li><b>Raspberry Pi 5: All-in-One Docker-based HomeLab with Pi-hole</b></li>
     <li><b>Portable Raspberry Pi VPN & Wireless Router</b></li>
