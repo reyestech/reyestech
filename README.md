@@ -27,8 +27,8 @@
 
 <h6>⚠️ Disclaimer! 
     All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
-    
----
+
+----
 
 <h2> 🛠️ Featured Projects</h2>
 
@@ -77,7 +77,6 @@
 
 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 
----
 
 <h2> 📫 Connect with Me</h2>
 
@@ -88,7 +87,6 @@
 <a href="mailto:hmreyes809@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-
 
 ---
 
