@@ -1,138 +1,102 @@
 
-![ezgif-5-be2d567c67-ezgif com-animated-gif-maker](https://github.com/reyestech/reyestech/assets/153461962/08dce7bd-4752-4321-b67c-85d0f2a80bd7)
+----
 
+<h1> Hi, I'm Hector! 🧑🏿‍💻🔍</h1>
 
-<h1>Hi, I'm Hector!🧑🏿‍💻🔍
-
-<h1 align="left">
+<h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&pause=1000&color=2A8BF7&repeat=false&random=false&width=600&lines=+++++++++++++++++++++++++++++++++++;Checkout+my+projects.;Networking+Labs+%F0%9F%9B%9C;Cybersecurity+Portfolio%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
-</h1>
+</h2>
 
-<h1>👋 Hi there!</h1>
+<b> 👋 Welcome to my GitHub page! </b>
 
-<p>Welcome to my GitHub profile! </p>
-Here, I showcase my portfolio and share detailed walkthroughs of my networking and cybersecurity projects. Thanks for stopping by!</p>
+<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. </p>
+<p> Thank you for stopping by! </p>
 
-<p>I’m a U.S. military veteran with a B.S. in Cybersecurity Technology from the University of Maryland Global Campus and a passion for hands-on problem solving. Currently, I’m focused on expanding my skills in IT automation with Python—building scripts and tools to streamline security operations and system management.</p>
+----
 
-<p>I also enjoy tinkering in my home lab. Whether I'm spinning up Kubernetes clusters on NUCs, deploying Docker containers, or creating virtualized environments, I love testing tools, automating deployments, and learning through real-world experimentation—even if it means breaking things just to fix them again.</p>
+<h3>🎖️ About Me</h3>
 
-<h6>⚠️ Disclaimer: 
-    This content is intended solely for educational purposes. Always follow ethical and legal guidelines in all cybersecurity activities. </h6>
+<p> I am a veteran with a B.S. in Cybersecurity Technology, driven by a passion for technology, cybersecurity, networking, hands-on problem-solving, and IT automation. I actively enhance my skills through real-world experimentation and practical challenges. </p>
 
+<p> I enjoy building and configuring PCs and managing my Homelab, where I explore and deploy various technologies. Whether running containerized applications with Docker, orchestrating systems with Kubernetes, or creating virtualized environments to test security controls and configurations, I thrive on the challenge of building and troubleshooting. I believe in learning through practical experimentation and trial and error, even if it means breaking things along the way to better understand them. After all, hands-on experience is the best teacher! </p>
+<p> Thank you again for visiting my page—feel free to explore my repositories to see my work in action! </p>
 
-<h2> 🪟 AZURE SIEM </h2>
-    
-[☁️🔷 **Azure Honeynet & Microsoft Sentinel Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)  
-Deployed a honeynet in Microsoft Azure using intentionally vulnerable VMs to simulate real-world attacks. Monitored and analyzed attack data with Microsoft Sentinel, applied security hardening based on NIST 800-53 and Microsoft Defender for Cloud, and reassessed to enhance detection and response capabilities.
+<h6>⚠️ Disclaimer! 
+    All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
+---
 
+<h2>🚀 Featured Projects</h2>
 
+### [🔷 Azure SOC Lab: Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+Built a SOC environment in Azure using Sentinel SIEM. Deployed a honeynet to monitor real-world cyberattacks, enhancing threat detection, incident response, and cloud security.
 
 <details>
-    <summary>KQL Queries Guidelines!</summary>
-    <div>
-      <a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Queries </a><br>
-      <!-- Add more links as needed -->
-    </div>
-  </details>
-
-</h1>
-
-<h2>🐱‍💻 Fullstack Academy: Capstone Project Runbooks:</h2>
-
-[📊 **Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook)  
-Built an ELK-based SIEM lab for real-time security monitoring using Kibana, AD, and port forwarding to support remote teams.
-
-[🐄 **BeEF (Browser Exploitation Framework) Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md)  
-Documented the setup and use of BeEF to perform browser-based attacks and demonstrate network exploitation via hooked browsers.
-
-[🌐 **NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook)  
-Created a guide on using Nmap for network mapping, port scanning, and OS detection, including NSE scripting for security assessments.
-
-[🐧**UTM & Linux Virtualization for Apple M3 Tutorial**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main)  
-Step-by-step setup of Kali Linux on M1/M2/M3 Macs using UTM with ARM64 support for efficient security testing environments.
-
-
-<h3> Capstone Project Video </h3>
-<details>
-  <summary>Capstone YouTube video!</summary>
-  
-  [![YouTube Video](https://img.youtube.com/vi/j60MCJAZG3s/0.jpg)](https://www.youtube.com/watch?v=j60MCJAZG3s)
+  <summary>📑 Sentinel KQL Queries</summary>
+  <ul>
+    <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
+  </ul>
 </details>
 
+### 🖥️ Fullstack Academy: Capstone Project Runbooks
+- [Elastic SIEM Lab Runbook](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook): Set up an ELK SIEM lab for monitoring.
+- [BeEF Browser Exploitation Runbook](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md): Guide for browser-based exploitation scenarios.
+- [NMAP Runbook](https://github.com/reyestech/NMAP-Runbook): Network mapping and vulnerability assessments.
+- [UTM Linux Virtualization for Apple M3](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main): Kali Linux virtualization guide for M-series Macs.
 
-<h2>👁️‍🗨️🔬Splunk:</h2>
-
-[🕵️‍♂️**Splunk: Website Defacement**](https://github.com/reyestech/Splunk-Web-Site-Defacement)  
-Used Splunk to investigate and respond to website defacement attacks, utilizing log analysis, VirusTotal, and Windows Sandbox.
-
-[💣**Splunk: Ransomware**](https://github.com/reyestech/Splunk-Ransomware)  
-Built a Splunk-based runbook to detect and analyze ransomware attacks, leveraging Suricata, VirusTotal, and live threat monitoring.
-
-<h2>🥷⚔️ Penetration Testing:</h2>
-
-[📋 **Pentest Report: Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)  
-Performed full-scope penetration testing using Nmap, Metasploit, and Wireshark to simulate real-world attacks on a client network.
-
-[🐈‍⬛ **Hashcat: Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)  
-Completed a CTF challenge using Hashcat to crack NTLM hashes with rockyou.txt in Kali Linux, demonstrating password audit skills.
-
-<h2>🧑‍🎓📜🎓Certifications:</h2>
-
-- [CompTIA CySA++: CS0-003](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md)
-- [CompTIA Security+: SY0-701](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main)
-- [CompTIA Network+: N10-008](https://github.com/reyestech/Network-)
-- [CompTIA A+: 220-1101 & 220-1102](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
-- [AWS Certified Cloud Practitioner: CLF-C02](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
-- [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main)
-
-
-
-<h2>🌐🍯Incoming Projects:</h2>
 <details>
-  <summary>Click to see upcoming projects!</summary>
-  <div>
-    <h3>I will share detailed Runbooks on my current Networking and Security Projects in the upcoming weeks.<br>
-    These guides will thoroughly analyze the concepts, best practices, and tools needed to establish and maintain safe and efficient networks in both personal and professional settings.</h3>
-    <details>
-      <summary>Raspberry Pi 5: All-in-1 HomeLab Build - Pi-hole - Docker containers</summary>
-      <div>
-        <ul>
-          <li><b>Task: Building the Ultimate Home Lab and Home Server using Docker to centralize all my Pi Projects.</b></li>
-        </ul>
-      </div>
-    </details>    
-    <details>
-      <summary>Portable Raspberry Pi VPN & Wireless Router</summary>
-      <div>
-        <ul>
-          <li><b>Task: Building an on-the-go safe hacking set-up.</b></li>
-        </ul>
-      </div>
-    </details>    
-    <!-- Add links or any other additional information below -->
-    <!-- Add more links as needed -->
-  </div>
+  <summary>🎥 Capstone Project Demo</summary>
+  <a href="https://www.youtube.com/watch?v=j60MCJAZG3s">
+    <img src="https://img.youtube.com/vi/j60MCJAZG3s/0.jpg" alt="YouTube Video" />
+  </a>
 </details>
 
+### 🕵️ Splunk Security Investigations
+- [Website Defacement Analysis](https://github.com/reyestech/Splunk-Web-Site-Defacement): Incident response using Splunk and VirusTotal.
+- [Ransomware Detection & Response](https://github.com/reyestech/Splunk-Ransomware): Ransomware threat detection using Splunk and Suricata.
 
-<h2>📧☎️ Connect with me:</h2>
+### 🎯 Penetration Testing
+- [Pentest Report with Nmap & Metasploit](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report): Conducted simulated network penetration testing.
+- [Hashcat Password Cracking](https://github.com/reyestech/Hashcat/tree/main): Demonstrated password auditing using Hashcat.
 
-<a href="https://linkedin.com/in/reyestech"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+<h2>📜 Certifications</h2>
+
+- 🔎 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
+
+- 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
+
+---
+
+<h2>🛠️ Upcoming Projects</h2>
+
+<details>
+  <summary>🔨Click to see what's coming soon!</summary>
+  <ul>
+    <li><b>Raspberry Pi 5: All-in-One Docker-based HomeLab with Pi-hole</b></li>
+    <li><b>Portable Raspberry Pi VPN & Wireless Router</b></li>
+  </ul>
+</details>
+
+---
+
+<h2>📫 Connect with Me</h2>
+
+<a href="https://linkedin.com/in/reyestech">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="mailto:hmreyes809@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+---
+
+<h2 align="center">🐍 GitHub Contributions 🐍</h2>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
-
-
-
-
