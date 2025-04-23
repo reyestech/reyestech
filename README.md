@@ -97,8 +97,11 @@ Built a cloud-based SOC environment in Azure using Sentinel SIEM. Deployed a hon
 
 ---
 
-<h2 align="center">🐍 GitHub Contributions 🐍</h2>
-
 <div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
+
