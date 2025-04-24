@@ -62,12 +62,12 @@
 
 
 ### 🕵️ Splunk Security Investigations
-🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Web server cyber attack, incident response runbook using Splunk.  
+🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server. 
 🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
 ### 🥷 Penetration Testing and Analysis Runbooks
 🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
-🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Analysis of password and NTLM hashes vulnerabilities using Kali Linux and Hashcat.  
+🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.  
 
 ---
 
