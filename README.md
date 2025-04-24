@@ -37,7 +37,7 @@
 <p> Built a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
   cloud environment.
     
-- <details>
+<details>
   <summary>📑 Sentinel KQL Queries</summary>
   <ul>
     <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
