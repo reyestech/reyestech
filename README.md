@@ -10,11 +10,13 @@
 
 </h2>
 
+<div align="center">
+  <h3>👋 Hey there!</h3>
+</div>
 
-<h3>👋 My GitHub!</h3>
+<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. Thank you for stopping by! </p>
 
-<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. </p> 
-<p> Thank you for stopping by! </p> 
+---
 
 
 <h3>🎖️ About Me </h3>
