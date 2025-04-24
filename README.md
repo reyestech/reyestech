@@ -64,7 +64,7 @@
 
 
 ### 🕵️ Splunk Security Investigations
-🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server. 
+🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
 ### 🥷 Penetration Testing and Analysis Runbooks
