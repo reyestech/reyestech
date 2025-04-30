@@ -14,7 +14,7 @@
   <h3>👋 Hey there!</h3>
 </div>
 
-<p> Here, you'll find a collection of detailed walkthroughs and showcases of my labs and projects. I document my journey by creating comprehensive guides and runbooks, which reinforce my skills and solidify continuous learning. Thank you for stopping by! </p>
+<p> Here, you'll find comprehensive guides and hands-on cybersecurity labs that showcase my skills, passion, and ongoing development in the field. Thanks for stopping by! </p>
 
 ---
 
