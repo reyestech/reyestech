@@ -57,11 +57,14 @@
 
 ---
 
-<h3> 📜 Certifications</h3>
+<h3> 📜 Certifications </h3> 
+
 
 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 
-📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)
+📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)  | 
+
+<img src="https://github.com/user-attachments/assets/6d1901d5-c96e-4d09-a14e-34fcba54a336" alt="ezgif-3a60440f0e3f1b" width="100"/>
 
 <h3> 📫 Connect with Me</h3>
 
