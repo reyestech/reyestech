@@ -90,6 +90,17 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
+<h3> 🔨Upcoming Projects</h3>
+
+<details>
+  <summary> Click to see what's coming soon!</summary>
+  <ul>
+    <li><b>- 🔐 Threat Simulation Lab: Blue/Red Team simulation with detection response </b></li>
+    <li><b>- 🧠 Python for Security Automation </b></li>
+    <li><b>- 📶 All-in-One Portable Router: Docker-based  Raspberry Pi, VPN & Wireless Router with Pi-hole </b></li>
+  </ul>
+</details>
+
 ---
 
 <h2 align="center"> 🐍 Thanks for stopping by 👋 🐍 </h2>
@@ -108,14 +119,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   </h2>
-
   
-<h2> 🔨Upcoming Projects</h2>
-
-<details>
-  <summary> Click to see what's coming soon!</summary>
-  <ul>
-    <li><b>Raspberry Pi 5: All-in-One Docker-based HomeLab with Pi-hole</b></li>
-    <li><b>Portable Raspberry Pi VPN & Wireless Router</b></li>
-  </ul>
-</details>
