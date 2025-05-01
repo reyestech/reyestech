@@ -31,7 +31,23 @@
 
 ---
 
+<h2> 🛠️Featured Projects</h2>
+
+### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+🔹 [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+<p> Created a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
+  cloud environment.
+    
+<details>
+  <summary>📑 Sentinel Automation KQL Queries</summary>
+  <ul>
+    <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
+  </ul>
+</details>
+</details>
+
 <p> 
+
 
 ### 🖥️ Fullstack Academy: Capstone Projects  
 🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
