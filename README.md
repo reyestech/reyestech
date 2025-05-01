@@ -22,9 +22,10 @@
 
 <p> Feel free to explore my repositories to see my work in action! </p>
 
+<img src="https://github.com/user-attachments/assets/f11ce00c-2415-469a-ac85-18dc85b715ab" alt="ezgif-3d26813e97be2f" width="500"/>
+
 <h6>⚠️ Disclaimer! 
     All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
-
 ----
 
 <h2> 🛠️Featured Projects</h2>
@@ -94,6 +95,8 @@
     <li><b>- 📶 All-in-One Portable Router: Docker-based  Raspberry Pi, VPN & Wireless Router with Pi-hole </b></li>
   </ul>
 </details>
+
+<img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
 
 ---
 
