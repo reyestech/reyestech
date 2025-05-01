@@ -22,26 +22,14 @@
 
 <p> Feel free to explore my repositories to see my work in action! </p>
 
-<img src="https://github.com/user-attachments/assets/f11ce00c-2415-469a-ac85-18dc85b715ab" alt="ezgif-3d26813e97be2f" width="500"/>
-
 <h6>⚠️ Disclaimer! 
     All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
-----
-
-<h2> 🛠️Featured Projects</h2>
-
-### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-🔹 [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> Created a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
-  cloud environment.
     
-<details>
-  <summary>📑 Sentinel KQL Queries</summary>
-  <ul>
-    <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
-  </ul>
-</details>
-</details>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="250"/>
+</p>
+
+---
 
 <p> 
 
