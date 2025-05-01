@@ -10,17 +10,14 @@
 
 </h2>
 
-<div align="center">
-  <h3>👋 Hey there!</h3>
-</div>
-
-<p> Here, you'll find comprehensive guides and hands-on cybersecurity labs showcasing my skills, passion, and ongoing projects. </p>
-
 ---
 
 <h3>🎖️ About Me </h3>
 
 <p>I'm a U.S.-based IT professional and veteran with a B.S. in Cybersecurity Technology. I enjoy building PCs, configuring my homelab, and testing security tools through real-world experimentation. I believe the best way to learn is by doing—even if it sometimes means breaking things along the way. </p>
+
+<p> Here, you'll find comprehensive guides and hands-on cybersecurity labs showcasing my skills, passion, and ongoing projects. </p>
+
 <p> Feel free to explore my repositories to see my work in action! </p>
 
 <h6>⚠️ Disclaimer! 
@@ -28,7 +25,7 @@
 
 ----
 
-<h2> 🛠️ Featured Projects</h2>
+<h2> 🛠️Featured Projects</h2>
 
 ### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 🔹 [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
