@@ -44,9 +44,9 @@
 
 <p> 
 
-### 🖥️ Fullstack Academy: Capstone Projects 
-🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
-🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.  
+### 🖥️ Fullstack Academy: Capstone Projects
+🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.
+🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.
 🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) Comprehensive NMAP guide for network mapping and vulnerability assessments.  
 🔸 [**UTM Linux Virtualization: Apple M3**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main) Virtualization guide for M-series Mac users.  
  
