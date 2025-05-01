@@ -1,4 +1,6 @@
 
+![header_gif](https://github.com/user-attachments/assets/feea2489-b25f-4797-9c55-8af892acf462)
+
 ----
 
 <h1> Hi, I'm Hector!🧑🏿‍💻</h1>
