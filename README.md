@@ -33,7 +33,7 @@
 
 <h2> 🛠️Featured Projects</h2>
 
-### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+### 🪟[ Microsoft Azure Labs](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 🔹 [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <p> Created a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
   cloud environment.
@@ -48,13 +48,16 @@
 
 <p> 
 
+### 🖥️ PowerShell Win-Troubleshoot Toolkit
+🔹 [**Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting and evidence collection—no third-party installations required."
+
 ### 🕵️ Splunk Security Investigations
-🔹 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
-🔹 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
+🔺 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
+🔺 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
 ### 🥷 Penetration Testing and Analysis Runbooks
-🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
-🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.  
+🔹 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
+🔹 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.  
 
 ### 🖥️ Fullstack Academy: Capstone Projects  
 🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
