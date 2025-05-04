@@ -49,7 +49,7 @@
 <p> 
 
 ### 🖥️ PowerShell Win-Troubleshoot Toolkit
-🔹 [**Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting and evidence collection—no third-party installations required."
+🔹 [**PowerShell Scripts**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
 ### 🕵️ Splunk Security Investigations
 🔺 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
