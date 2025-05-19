@@ -23,7 +23,7 @@
 <p> Feel free to explore my repositories to see my work in action! </p>
 
 <h6>⚠️ Disclaimer! 
-    All content shared is for educational purposes only. Always follow ethical and legal standards in cybersecurity activities. </h6>
+    All content shared is for educational purposes only. Always follow your local ethical and legal cybersecurity standards. </h6>
     
 <p align="center">
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="250"/>
