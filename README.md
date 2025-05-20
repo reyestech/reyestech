@@ -51,6 +51,9 @@
 ### 🖥️ PowerShell Win-Troubleshoot Toolkit
 🔹 [**PowerShell Scripts**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
+### 🔍 Vulnerability Management 
+🔹 [**OpenVAS Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md) A hands-on lab using OpenVAS to scan a vulnerable Windows 10 VM in Azure
+
 ### 🕵️ Splunk Security Investigations
 🔺 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 🔺 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
