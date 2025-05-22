@@ -31,38 +31,29 @@
 
 ---
 
-<h2> 🛠️Featured Projects</h2>
+<h2> 🛠️ Featured Projects </h2>
 
-### 🪟[ Microsoft Azure Labs](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-🔹 [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> Created a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection, incident response, and proactively harden the
-  cloud environment.
+### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+🖥️ [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+<p> Developing a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection and incident response, and proactively harden the cloud environment.
     
-<details>
-  <summary>📑 Sentinel Automation KQL Queries</summary>
-  <ul>
-    <li><a href="https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main">KQL Query Guidelines</a></li>
-  </ul>
-</details>
-</details>
+🔹 [**Azure Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation
 
-<p> 
+### ▶️ **PowerShell Troubleshoot Toolkit**
+🔺 [**PowerShell Scripts**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
-### 🖥️ PowerShell Win-Troubleshoot Toolkit
-🔹 [**PowerShell Scripts**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
-
-### 🔍 Vulnerability Management 
+### 📊 **Vulnerability Management**
 🔹 [**OpenVAS Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md) A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environment. 
 
-### 🕵️ Splunk Security Investigations
+### 🕵️ **Splunk Investigations**
 🔺 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 🔺 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
-### 🥷 Penetration Testing and Analysis Runbooks
+### 🥷 **Penetration Testing Analsys**
 🔹 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
 🔹 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.  
 
-### 🖥️ Fullstack Academy: Capstone Projects  
+### 🖥️ **Fullstack Academy: Capstone Project**  
 🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
 🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.  
 🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) Comprehensive NMAP guide for network mapping and vulnerability assessments.  
