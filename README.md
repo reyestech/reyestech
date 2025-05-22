@@ -33,14 +33,17 @@
 
 <h1> 🛠️ Featured Projects </h1>
 
-### 🪟[ Microsoft Azure Lab](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-🖥️ [**Azure SOC Lab: Sentinel SIEM & Network Hardening**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> Developing a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection and incident response, and proactively harden the cloud environment.
-    
-🔹 [🔄 **Azure Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation
+<h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
+</h2>
 
-### ▶️ **PowerShell Automation Scripts Toolkit**
-🔺 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
+🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+<p> Developing a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection and incident response, and proactively harden the cloud environment.
+
+▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation
+
+<h2> 🔄 Automation Scripts </h2>
+
+🔹 [▶️ **PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
 <h2> 🕵️ Splunk Investigations </h2>
     
@@ -70,30 +73,7 @@
   </a>
   </details>
 
-
-
----
-
-<h3> 📜 Certifications </h3> 
-
-
-🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
-
-📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)  | 
-
-<img src="https://github.com/user-attachments/assets/6d1901d5-c96e-4d09-a14e-34fcba54a336" alt="ezgif-3a60440f0e3f1b" width="100"/>
-
-<h3> 📫 Connect with Me</h3>
-
-<a href="https://linkedin.com/in/reyestech">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:hmreyes809@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
-<h3> 🔨Upcoming Projects</h3>
+<h2> 🔨Upcoming Projects</h2>
 
 <details>
   <summary> Click to see what's coming soon!</summary>
@@ -104,9 +84,31 @@
   </ul>
 </details>
 
-<img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
+---
+
+<h2> 📜 Certifications </h2> 
+
+🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
+
+📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)  | 
+
+
+<h2> 📫 Connect with Me </h2>
+
+<a href="https://linkedin.com/in/reyestech">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hmreyes809@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
 
 ---
+
+<img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
+
+
 
 <h2 align="center"> 🐍 Thanks for stopping by 👋 🐍 </h2>
 <h3 align="center">
