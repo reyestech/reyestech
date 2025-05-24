@@ -45,6 +45,11 @@
 
 🔹 [▶️ **PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
+🔹 [▶️ **Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
+
+🔹 [▶️ **KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting, and safe remediation.
+
+
 <h2> 🕵️ Splunk Investigations </h2>
     
 🔸 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
@@ -103,11 +108,9 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-
 ---
 
 <img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
-
 
 
 <h2 align="center"> 🐍 Thanks for stopping by 👋 🐍 </h2>
