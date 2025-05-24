@@ -43,21 +43,23 @@
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔹 [▶️ **PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
+🔹 [▶**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for automated troubleshooting, evidence collection, and safe remediation.
 
-🔹 [▶️ **Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
+🔹 [▶**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
 
-🔹 [▶️ **KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting, and safe remediation.
+🔹 [**KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting, and safe remediation.
 
 
 <h2> 🕵️ Splunk Investigations </h2>
     
 🔸 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
+
 🔸 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
 
 <h2> 🥷 Penetration Testing Playbooks </h2>
     
 🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
+
 🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.
 
 <h2> 📊 Vulnerability Management </h2>
