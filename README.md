@@ -39,7 +39,7 @@
 🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <p> Developing a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection and incident response, and proactively harden the cloud environment.
 
-▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation
+▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation.
 
 <h2> 🔄 Automation Scripts </h2>
 
@@ -48,8 +48,7 @@ Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remedi
 
 🔹 [▶**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
 
-🔹 [**KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting, and safe remediation.
-
+🔹 [**KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting and safe remediation.
 
 <h2> 🕵️ Splunk Investigations </h2>
     
