@@ -37,7 +37,7 @@
 </h2>
 
 🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> Developing a cloud-based SOC environment in Azure using Sentinel. Deployed a honeynet with vulnerable VMs to monitor and analyze live cyberattacks, using insights to improve threat detection and incident response, and proactively harden the cloud environment.
+<p> 🔹 Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
 
 ▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation.
 
