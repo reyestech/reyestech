@@ -12,7 +12,7 @@
 
 </h2>
 
-<p> Here, you'll find comprehensive guides and hands-on cybersecurity labs showcasing my skills, passion, and ongoing projects. </p>
+<p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
 
 ---
 
@@ -43,7 +43,8 @@
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔹 [▶**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
+🔹 [▶**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
+Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
 🔹 [▶**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
 
