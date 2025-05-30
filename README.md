@@ -22,11 +22,10 @@
 
 <p> Feel free to explore my repositories to see my work in action! </p>
 
-<h6>⚠️ Disclaimer! 
-    All content shared is for educational purposes only. Always follow your local ethical and legal cybersecurity standards. </h6>
+<h6>⚠️ Disclaimer! All content shared is for educational purposes only. </h6>
     
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="250"/>
+  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
 </p>
 
 ---
@@ -36,8 +35,8 @@
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 </h2>
 
-🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> 🔹 Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
+🔹🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+<p> Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
 
 ▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation.
 
