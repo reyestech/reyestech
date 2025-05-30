@@ -46,9 +46,9 @@
 🔹 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-🔹 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
+🔹 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bash scripts for automated troubleshooting, evidence collection.
 
-🔹 [**KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting and safe remediation.
+
 
 <h2> 🕵️ Splunk Investigations </h2>
     
