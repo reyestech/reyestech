@@ -43,10 +43,10 @@
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔹 [▶**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
+🔹 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-🔹 [▶**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
+🔹 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bsh scripts for automated troubleshooting, evidence collection.
 
 🔹 [**KQL-Queries-Sheet-For-Azure-Honeynet-trap**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap) Ready-to-run KQLs scripts for automated troubleshooting and safe remediation.
 
@@ -83,6 +83,8 @@ Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remedi
   </a>
   </details>
 
+---
+
 <h2> 🔨Upcoming Projects</h2>
 
 <details>
@@ -93,6 +95,8 @@ Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remedi
     <li><b>- 📶 All-in-One Portable Router: Docker-based  Raspberry Pi, VPN & Wireless Router with Pi-hole </b></li>
   </ul>
 </details>
+
+<img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
 
 ---
 
@@ -114,9 +118,6 @@ Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remedi
 </a>
 
 ---
-
-<img src="https://github.com/user-attachments/assets/3e0dd1c6-0899-4678-9dca-7288bda864ce" alt="banner gif" width="800"/>
-
 
 <h2 align="center"> 🐍 Thanks for stopping by 👋 🐍 </h2>
 <h3 align="center">
