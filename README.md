@@ -35,10 +35,11 @@
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 </h2>
 
-🔹🖥️ [**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+🔹🖥[**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <p> Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
 
-▸  [**Lab's KQL Automation Guidelines**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-trap/tree/main) Ready-to-run Sentinel KQL Scripts for SOC Automation.
+🔹[**Azure Kubernetes Service (AKS) Lab**](https://github.com/reyestech/azure-kubernetes-hlab)
+<p> A comprehensive guide for deploying and managing a three-node Kubernetes cluster using Microsoft Azure. This lab simulates real-world infrastructure to practice container orchestration, scaling, and cloud networking.
 
 <h2> 🔄 Automation Scripts </h2>
 
