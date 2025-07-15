@@ -35,7 +35,7 @@
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 </h2>
 
-🔹🖥[**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
+🔹[**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <p> Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
 
 🔹[**Azure Kubernetes Service (AKS) Lab**](https://github.com/reyestech/azure-kubernetes-hlab)
@@ -43,10 +43,10 @@
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔹 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
+🔺 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-🔹 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bash scripts for automated troubleshooting, evidence collection.
+🔺 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bash scripts for automated troubleshooting, evidence collection.
 
 
 
