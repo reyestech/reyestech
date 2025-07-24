@@ -46,10 +46,10 @@ Deployed and managed a 3-node AKS cluster to simulate production infrastructure;
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔺 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit)</p>
+🔺 [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit)</p>
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-🔺 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-)</p> 
+🔺 [**Bash Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-)</p> 
 Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
 
 
