@@ -38,7 +38,7 @@
 🔹[**Azure SOC Lab:** Sentinel SIEM & Network Hardening](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
 <p> Created a cloud-based solution in Azure using Sentinel. Deployed intentionally vulnerable virtual machines to capture real-world attacks and improve detection and response strategies for enhanced cloud security.
 
-🔹[**Azure Kubernetes Service (AKS) Lab**](https://github.com/reyestech/azure-kubernetes-hlab)
+🔹[**Kubernetes on Azure**](https://github.com/reyestech/azure-kubernetes-hlab) – Sandbox Lab for Container Security & Deployment
 <p> A comprehensive guide for deploying and managing a three-node Kubernetes cluster using Microsoft Azure. This lab simulates real-world infrastructure to practice container orchestration, scaling, and cloud networking.
 
 <h2> 🔄 Automation Scripts </h2>
