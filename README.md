@@ -35,38 +35,44 @@
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 </h2>
 
-🔹[**Azure SOC Lab– Sentinel SIEM + Honeynet Trap**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)
-<p> Deployed a cloud-based SIEM in Azure using Microsoft Sentinel and a honeynet of vulnerable VMs to lure live cyberattacks, detect threats in real time, and design incident response playbooks.
+🔹[**Azure SOC Lab– Sentinel SIEM + Honeynet Trap**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)</p>
+
+Deployed a cloud-based SIEM in Azure using Microsoft Sentinel and a honeynet of vulnerable VMs to lure live cyberattacks, detect threats in real time, and design incident response playbooks.
  
 
 
-🔹[**Kubernetes on Azure**](https://github.com/reyestech/azure-kubernetes-hlab) – **Sandbox Lab for Container Security & Deployment**
-<p> A comprehensive guide for deploying and managing a three-node Kubernetes cluster using Microsoft Azure. This lab simulates real-world infrastructure to practice container orchestration, scaling, and cloud networking.
+🔹[**Kubernetes on Azure – Sandbox Lab for Container Security & Deployment**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
+Deployed and managed a 3-node AKS cluster to simulate production infrastructure; implemented pod-level security policies, streamed logs to Microsoft Sentinel, and practiced container orchestration, scaling, and cloud networking.
 
 <h2> 🔄 Automation Scripts </h2>
 
-🔺 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
+🔺 [**PowerShell Scripts Toolkit**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit)</p>
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-🔺 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) Ready-to-run Bash scripts for automated troubleshooting, evidence collection.
-
+🔺 [**Bash-Linux-Troubleshoot-and-Automation-Toolkit**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-)</p> 
+Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
 
 
 <h2> 🕵️ Splunk Investigations </h2>
     
-🔸 [**Website Defacement Analysis**](https://github.com/reyestech/Splunk-Web-Site-Defacement) Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
+🔸 [**Website Defacement Analysis & Response – Splunk BOTS**](https://github.com/reyestech/Splunk-Web-Site-Defacement)</p>
+Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 
-🔸 [**Ransomware Detection & Response**](https://github.com/reyestech/Splunk-Ransomware) Ransomware threat detection runbook using Splunk and Suricata.  
+🔸 [**Ransomware Detection & Response – Splunk BOTS**](https://github.com/reyestech/Splunk-Ransomware)</p>
+Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
 
 <h2> 🥷 Penetration Testing Playbooks </h2>
     
-🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) Full-scope Network penetration test report, using Nmap, Metasploit, and Wireshark.  
+🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)</p> 
+Created a full-scope pentest runbook from Nmap reconnaissance to Metasploit exploitation tools and post-exploitation workflows.
 
-🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) Passwords and NTLM hashes vulnerability analysis using Kali Linux and Hashcat.
+🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)</p> 
+Password and NTLM Hash Vulnerability Analysis Using Kali Linux and Hashcat.
 
 <h2> 📊 Vulnerability Management </h2>
     
-🔹 [**OpenVAS Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md) A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environment. 
+🔹 [**OpenVAS Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md)</p> 
+A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environment. 
 
 <h2> 🖥️ Fullstack Academy: Capstone Project </h2>
     
