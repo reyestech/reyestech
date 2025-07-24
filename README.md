@@ -55,10 +55,10 @@ Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
 
 <h2> 🕵️ Splunk Investigations </h2>
     
-🔸 [**Website Defacement Analysis & Response – Splunk BOTS**](https://github.com/reyestech/Splunk-Web-Site-Defacement)</p>
+🔸 [**Splunk BOTS: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement)</p>
 Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 
-🔸 [**Ransomware Detection & Response – Splunk BOTS**](https://github.com/reyestech/Splunk-Ransomware)</p>
+🔸 [**Splunk BOTS: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware)</p>
 Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
 
 <h2> 🥷 Penetration Testing Playbooks </h2>
@@ -66,19 +66,19 @@ Configured Splunk and Suricata to analyze ransomware events, build detection rul
 🔺 [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)</p> 
 Created a full-scope pentest runbook from Nmap reconnaissance to Metasploit exploitation tools and post-exploitation workflows.
 
-🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)</p> 
+🔺 [**Hashcat Runbook – Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)</p> 
 Password and NTLM Hash Vulnerability Analysis Using Kali Linux and Hashcat.
 
 <h2> 📊 Vulnerability Management </h2>
     
-🔹 [**OpenVAS Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md)</p> 
+🔹 [**OpenVAS Runbook – Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md)</p> 
 A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environment. 
 
 <h2> 🖥️ Fullstack Academy: Capstone Project </h2>
     
-🔸 [**Elastic SIEM Lab Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
+🔸 [**Elastic SIEM & ELK Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
 
-🔸 [**BeEF Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.  
+🔸 [**BeEF – Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Guide for browser-based exploitation scenarios.  
 
 🔸 [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) Comprehensive NMAP guide for network mapping and vulnerability assessments.  
 
