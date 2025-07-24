@@ -63,7 +63,7 @@ Configured Splunk and Suricata to analyze ransomware events, build detection rul
 
 <h2> 🥷 Penetration Testing Playbooks </h2>
     
-🔺 [**Pentest Report with Nmap & Metasploit**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)</p> 
+🔺 [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)</p> 
 Created a full-scope pentest runbook from Nmap reconnaissance to Metasploit exploitation tools and post-exploitation workflows.
 
 🔺 [**Hashcat Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)</p> 
