@@ -29,7 +29,7 @@
 </p>
 
 ---
-–
+
 <h1> 🛠️ Featured Projects </h1>
 
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
