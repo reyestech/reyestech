@@ -38,13 +38,15 @@
 🔹[**Azure SOC Lab– Sentinel SIEM + Honeynet Trap**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)</p>
 
 Deployed a cloud-based SIEM in Azure using Microsoft Sentinel and a honeynet of vulnerable VMs to lure live cyberattacks, detect threats in real time, and design incident response playbooks.
- 
-
 
 🔹[**Kubernetes on Azure – Sandbox Lab for Container Security & Deployment**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
 Deployed and managed a 3-node AKS cluster to simulate production infrastructure; implemented pod-level security policies, streamed logs to Microsoft Sentinel, and practiced container orchestration, scaling, and cloud networking.
 
-<h2> 🔄 Automation Scripts </h2>
+
+<h2> 🔄 Automation Scripts  </h2>
+
+🔺 [**Automation Remediation Toolkit – PowerShell & Bash**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting)</p>
+This repository houses a Bash & PowerShell Command‑Line Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
 
 🔺 [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit)</p>
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
