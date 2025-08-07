@@ -46,7 +46,7 @@ Deployed and managed a 3-node AKS cluster to simulate production infrastructure;
 <h2> 🔄 Automation Scripts  </h2>
 
 🔺 [**Automation Remediation Toolkit – PowerShell & Bash**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting)</p>
-This repository houses a Bash & PowerShell Command‑Line Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
+This repository houses a Bash & PowerShell CMLToolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
 
 🔺 [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit)</p>
 Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
