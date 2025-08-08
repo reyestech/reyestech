@@ -1,25 +1,23 @@
 
 ![ezgif-5-be2d567c67](https://github.com/user-attachments/assets/ec26148c-9f20-435b-87f7-96cd3d7ca8fe)
 
+---
 
 <h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&pause=1000&color=2A8BF7&repeat=false&random=false&width=600&lines=+++++++++++++++++++++++++++++++++++;Checkout+my+projects.;Networking+Labs+%F0%9F%9B%9C;Cybersecurity+Portfolio%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
-
 </h2>
 
-----
-
-<h1> Hi, I'm Hector!🧑🏿‍💻</h1>
+##  Hi, I'm Hector!🧑🏿‍💻 
 
 <p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
 
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
 
 
-## 🎖️ About Me 
+# 🎖️ About Me 
 
 <p>I'm a U.S.-based IT professional and veteran with a B.S. in Cybersecurity Technology. I enjoy building PCs, configuring my homelab, and testing security tools through real-world experimentation. I believe the best way to learn is by doing—even if it sometimes means breaking things along the way. </p>
 
@@ -29,10 +27,9 @@
 
 ---
 
-##  🛠️ Featured Projects 
+# 🛠️ Featured Projects 
 
-<h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
-</h2>
+## 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 
 🔹[**Azure SOC Lab– Sentinel SIEM + Honeynet Trap**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main)</p>
 
@@ -42,7 +39,7 @@ Deployed a cloud-based SIEM in Azure using Microsoft Sentinel and a honeynet of 
 Deployed and managed a 3-node AKS cluster to simulate production infrastructure; implemented pod-level security policies, streamed logs to Microsoft Sentinel, and practiced container orchestration, scaling, and cloud networking.
 
 
-<h2> 🔄 Automation Scripts  </h2>
+## 🔄 Automation Scripts 
 
 🔺 [**Automation Remediation Toolkit – PowerShell & Bash**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting)</p>
 This repository houses a Bash & PowerShell CMLToolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
@@ -54,7 +51,7 @@ Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remedi
 Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
 
 
-<h2> 🕵️ Splunk Investigations </h2>
+## 🕵️ Splunk Investigations 
     
 🔸 [**Splunk BOTS: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement)</p>
 Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
@@ -62,7 +59,7 @@ Splunk-based incident response runbook, addressing a cyber attack on the company
 🔸 [**Splunk BOTS: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware)</p>
 Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
 
-<h2> 🥷 Penetration Testing Playbooks </h2>
+## 🥷 Penetration Testing Runbooks 
     
 🔺 [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report)</p> 
 Created a full-scope pentest runbook from Nmap reconnaissance to Metasploit exploitation tools and post-exploitation workflows.
@@ -70,12 +67,12 @@ Created a full-scope pentest runbook from Nmap reconnaissance to Metasploit expl
 🔺 [**Hashcat Runbook – Password Cracking**](https://github.com/reyestech/Hashcat/tree/main)</p> 
 Password and NTLM Hash Vulnerability Analysis Using Kali Linux and Hashcat.
 
-<h2> 📊 Vulnerability Management </h2>
+## 📊 Vulnerability Management 
     
 🔹 [**OpenVAS Runbook – Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md)</p> 
 A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environment. 
 
-<h2> 🖥️ Fullstack Academy: Capstone Project </h2>
+## 🖥️ Fullstack Academy: Capstone Project 
     
 🔸 [**Elastic SIEM & ELK Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Set up an ELK SIEM lab for monitoring using Kibana and AD to support remote teams.  
 
@@ -94,7 +91,7 @@ A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environm
 
 ---
 
-<h2> 🔨Upcoming Projects</h2>
+### 🔨Upcoming Projects
 
 <details>
   <summary> Click to see what's coming soon!</summary>
@@ -109,14 +106,14 @@ A hands-on lab using OpenVAS to scan vulnerable Windows VMs in an Azure Environm
 
 ---
 
-<h2> 📜 Certifications </h2> 
+## 📜 Certifications 
 
 🔒 [CompTIA CySA+](https://github.com/reyestech/CySACert/blob/de4697c06c882f5b9bc2b1f60aecb32d2ea2ef20/README.md) | 🔑 [CompTIA Security+](https://github.com/reyestech/Comptia-Sec-Cert-Image/tree/main) | 🌐 [CompTIA Network+](https://github.com/reyestech/Network-) | 💻 [CompTIA A+](https://github.com/reyestech/ComptiA-_Cert/blob/main/README.md)
 
 📊 [Google Cybersecurity Professional Certificate](https://github.com/reyestech/Google-Cybersecurity-Professional-Certificate/tree/main) | ☁️ [AWS Certified Cloud Practitioner](https://github.com/reyestech/AWS-Certified-Cloud-Practitioner-Cert)  | 
 
 
-<h2> 📫 Connect with Me </h2>
+#### 📫 Connect with Me 
 
 <a href="https://linkedin.com/in/reyestech">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
