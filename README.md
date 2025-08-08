@@ -1,8 +1,6 @@
 
 ![ezgif-5-be2d567c67](https://github.com/user-attachments/assets/ec26148c-9f20-435b-87f7-96cd3d7ca8fe)
 
-----
-
 
 <h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
@@ -12,18 +10,16 @@
 
 </h2>
 
+----
 
 <h1> Hi, I'm Hector!🧑🏿‍💻</h1>
 
 <p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
 
-<p align="center">
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
-</p>
 
----
 
-<h3>🎖️ About Me </h3>
+## 🎖️ About Me 
 
 <p>I'm a U.S.-based IT professional and veteran with a B.S. in Cybersecurity Technology. I enjoy building PCs, configuring my homelab, and testing security tools through real-world experimentation. I believe the best way to learn is by doing—even if it sometimes means breaking things along the way. </p>
 
@@ -33,7 +29,7 @@
 
 ---
 
-<h1> 🛠️ Featured Projects </h1>
+##  🛠️ Featured Projects 
 
 <h2> 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main">Microsoft Azure Labs</a>
 </h2>
