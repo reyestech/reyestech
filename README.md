@@ -3,16 +3,23 @@
 
 ----
 
-<h1> Hi, I'm Hector!🧑🏿‍💻</h1>
 
 <h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&color=2A8BF7&repeat=false&random=false&width=445&lines=%22Hello%2C+World!%22;Welcome%2C" alt="Typing SVG" />
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&size=35&duration=3500&pause=1000&color=2A8BF7&repeat=false&random=false&width=600&lines=+++++++++++++++++++++++++++++++++++;Checkout+my+projects.;Networking+Labs+%F0%9F%9B%9C;Cybersecurity+Portfolio%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
+
 </h2>
 
+
+<h1> Hi, I'm Hector!🧑🏿‍💻</h1>
+
 <p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
+</p>
 
 ---
 
@@ -23,10 +30,6 @@
 <p> Feel free to explore my repositories to see my work in action! </p>
 
 <h6>⚠️ Disclaimer! All content shared is for educational purposes only. </h6>
-    
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
-</p>
 
 ---
 
