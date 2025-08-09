@@ -8,14 +8,17 @@
 
 </h2>
 
-<h1 align="center">Cybersecurity | Cloud & Infrastructure | Networks | Digital Forensics </h1>
-<p align="center"><strong>• Securing Systems • Automating Workflows • Investigating Threats • Building Resilient Infrastructure </strong></p>
+<h1 align="center"> Cybersecurity | Cloud & Infrastructure | Networks | Digital Forensics </h1>
+<h3 <p align="center"><strong>• Securing Systems • Automating Workflows • Investigating Threats • Building Resilient Infrastructure </strong></p>  </h3>
 
-## Hi, I'm Hector!🧑🏿‍💻 
+---
+
+# Hi, I'm Hector!🧑🏿‍💻 
 
 <p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
 
-  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="200"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
 
 
 # 🎖️ About Me 
