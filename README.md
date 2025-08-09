@@ -8,8 +8,12 @@
 
 </h2>
 
+---
+
 <h1 align="center"> Cybersecurity | Cloud & Infrastructure | Networks | Digital Forensics </h1>
 <h3 <p align="center"><strong>• Securing Systems • Automating Workflows • Investigating Threats • Building Resilient Infrastructure </strong></p>  </h3>
+
+---
 
 # Hi, I'm Hector!🧑🏿‍💻 
 
