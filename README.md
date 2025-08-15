@@ -9,7 +9,7 @@
 </h2>
 
 <h1 align="center"> Information Security | Digital Forensics | Cloud & Infrastructure </h1>
-<p align="center"><strong> •🔐 Securing Systems • ⚙️ Automating Workflows • 🕵️ Investigating Threats • 🧱 Building Resilient Infrastructure </strong></p>
+<p align="center"><strong>🔐 Securing Systems ⚙️ Automating Workflows 🕵️ Investigating Threats 🧱 Building Resilient Infrastructure </strong></p>
 
 
 ---
