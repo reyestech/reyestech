@@ -45,7 +45,7 @@ focused on learning through doing, breaking, fixing, and building better.
 
 ---
 
-## 🔄 **Automation Scripts** 
+## 🔄 **Automation Toolkit** 
 
 ### [**Automation Remediation Toolkit – PowerShell & Bash**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
 🔺This repository houses a Bash & PowerShell CMLToolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
