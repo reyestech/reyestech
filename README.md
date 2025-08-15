@@ -9,9 +9,10 @@
 </h2>
 
 ---
+Cloud & Infrastructure | Microsoft Azure | Data Center Security | Digital Forensics
 
-<h1 align="center">Information Security | Cloud/Hybrid Infrastructure | Digital Forensics</h1>
-<p align="center"><strong>🔐 Securing Systems ⚙️ Automating Workflows 🕵️ Investigating Threats 🧱 Building Resilient Infrastructure with Azure  </strong></p>
+<h1 align="center"> Information Security | Cloud & Infrastructure | Digital Forensics </h1>
+<p align="center"><strong>🔐 Securing Systems ⚙️ Automating Workflows 📊 Monitoring & Incident Response 🧱 Building Resilient Infrastructure with Azure </strong></p>
 
 ---
 
