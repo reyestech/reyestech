@@ -10,12 +10,16 @@
 
 ---
 
-<h1 align="center"> Cybersecurity | Cloud & Infrastructure | Networks | Digital Forensics </h1>
-<h3 <p align="center"><strong>• Securing Systems • Automating Workflows • Investigating Threats • Building Resilient Infrastructure </strong></p>  </h3>
+<h1 align="center"> Information Secuirty | Digital Forensics | Cloud & Infrastructure </h1>
+<p align="center"><strong> •🔐 Securing Systems • ⚙️ Automating Workflows • 🕵️ Investigating Threats • 🧱 Building Resilient Infrastructure </strong></p>
+
 
 ---
 
 # Hi, I'm Hector!🧑🏿‍💻 
+
+This GitHub is where I share my hands-on labs, experiments, and personal projects —
+focused on learning through doing, breaking, fixing, and building better.
 
 <p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
 
