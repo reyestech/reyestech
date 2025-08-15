@@ -9,33 +9,30 @@
 </h2>
 
 ---
-Cloud & Infrastructure | Microsoft Azure | Data Center Security | Digital Forensics
 
 <h1 align="center"> Information Security | Cloud & Infrastructure | Digital Forensics </h1>
-<p align="center"><strong>🔐 Securing Systems ⚙️ Automating Workflows 📊 Monitoring & Incident Response 🧱 Building Resilient Infrastructure with Azure </strong></p>
+<p align="center"><strong> 🔐 Securing Systems ⚙️ Automating Workflows 📊 IAM & Monitoring 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
 
 ---
 
-# 👋 **Hi, I'm Hector!** 🧑🏿‍💻
-
-I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst**.
+# 👋 **Hi, I'm Hector!** 
+I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** —  
+Focused on securing and automating cloud/hybrid environments with **Microsoft Azure**.
 <p align="center">
     
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
     
-## 🎖️ About Me 
+# 🎖️ About Me 🧑🏿‍💻
 This GitHub is where I share my hands-on labs, experiments, and personal projects —  
 focused on learning through doing, breaking, fixing, and building better.
 - Passionate about cloud security, automation, and infrastructure
-- Enjoy building custom labs and testing new tools across cloud & hybrid platforms 
+- Enjoy building custom labs and testing new tools across cloud & hybrid platforms
 - Believe in learning by breaking, fixing, and improving systems — experimentation is key  
-
-
 <h6>⚠️ Disclaimer: All content shared is for educational purposes only! </h6>
 
----
+# 🛠️ **Featured Projects**
 
-# 🛠️ **Featured Projects** 
+---
 
 ## 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main"> **Microsoft Azure Labs** </a>
 
