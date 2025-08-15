@@ -8,33 +8,28 @@
 
 </h2>
 
----
-
-<h1 align="center"> Information Secuirty | Digital Forensics | Cloud & Infrastructure </h1>
+<h1 align="center"> Information Security | Digital Forensics | Cloud & Infrastructure </h1>
 <p align="center"><strong> •🔐 Securing Systems • ⚙️ Automating Workflows • 🕵️ Investigating Threats • 🧱 Building Resilient Infrastructure </strong></p>
 
 
 ---
 
-# Hi, I'm Hector!🧑🏿‍💻 
+# 👋 **Hi, I'm Hector!** 🧑🏿‍💻
 
-This GitHub is where I share my hands-on labs, experiments, and personal projects —
-focused on learning through doing, breaking, fixing, and building better.
-
-<p> Here, you'll find comprehensive guides and hands-on labs showcasing my projects and ongoing interests. </p>
-
+I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst**.
 <p align="center">
+    
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
+    
+## 🎖️ About Me 
 
----
+This GitHub is where I share my hands-on labs, experiments, and personal projects —  
+focused on learning through doing, breaking, fixing, and building better.
+- Passionate about defensive security, cloud architecture, and digital forensics  
+- Enjoy building custom labs and testing real-world attack scenarios  
+- Believe in learning through failure — experimentation is key  
 
-# 🎖️ About Me 
-
-<p>I'm a U.S.-based IT professional and veteran with a B.S. in Cybersecurity Technology. I enjoy building PCs, configuring my homelab, and testing security tools through real-world experimentation. I believe the best way to learn is by doing—even if it sometimes means breaking things along the way. </p>
-
-<p> Feel free to explore my repositories to see my work in action! </p>
-
-<h6>⚠️ Disclaimer! All content shared is for educational purposes only. </h6>
+<h6>⚠️ Disclaimer: All content shared is for educational purposes only! </h6>
 
 ---
 
