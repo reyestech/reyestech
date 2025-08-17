@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center"> Information Security | Cloud & Infrastructure | Digital Forensics </h1>
-<p align="center"><strong> 🔐 Securing Systems ⚙️ Automating Workflows 📊 IAM & Monitoring 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
+<p align="center"><strong> 🔐 Securing Systems ⚙️ Automating Workflows 📊 Threat Intel 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
 
 ---
 
