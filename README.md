@@ -10,14 +10,16 @@
 
 ---
 
-<h1 align="center"> Information Security | Cloud & Infrastructure | Digital Forensics </h1>
-<p align="center"><strong> 🔐 Securing Systems 📊 Threat Intel ⚙️ Automating Workflows 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
+<h1 align="center">Azure Solutions | Information Security | Systems Automation 
+    Hardware & Infrastructure | Digital Forensics</h1>
+<p align="center"><strong> 🔐 Securing Systems ⚙️ Automating Workflows | 📊 Threat Intel 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
 
 ---
 
 # 👋 **Hi, I'm Hector!** 
 I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** —  
-Focused on securing and automating cloud/hybrid environments with **Microsoft Azure**.
+Passion for building, securing, and automating resilient cloud and hybrid infrastructures. I enjoy developing tools and techniques that streamline workflows and enhance automation across systems, primarily within the Microsoft Azure ecosystem.
+
 <p align="center">
     
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
