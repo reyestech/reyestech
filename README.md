@@ -15,21 +15,21 @@
 
 ---
 
-# 👋 **Hi, I'm Hector!** 
+# 🎖️ About Me 🧑🏿‍💻
+### **Hi, I'm Hector!** 👋
+
 I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** —  
 Passion for building, securing, and automating resilient cloud and hybrid infrastructures. I enjoy developing tools and techniques that streamline workflows and enhance automation across systems, primarily within the Microsoft Azure ecosystem.
 
+In this GitHub Repository, I share my hands-on labs, experiments, and personal projects. I'm focused on learning through doing, breaking, fixing, and building better.
+
+— 🛠️ Build → 💥 Break → 🧰 Fix → 📝 Learn → 🔁 Repeat
+
+<h7>⚠️ Disclaimer: All content shared is for educational purposes only! </h7>
+  
 <p align="center">
     
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
-    
-# 🎖️ About Me 🧑🏿‍💻
-This GitHub is where I share my hands-on labs, experiments, and personal projects —  
-focused on learning through doing, breaking, fixing, and building better.
-- Passionate about cloud security, automation, and infrastructure
-- Enjoy building custom labs and testing new tools across cloud & hybrid platforms
-- Believe in learning by breaking, fixing, and improving systems — experimentation is key  
-<h6>⚠️ Disclaimer: All content shared is for educational purposes only! </h6>
 
 # 🛠️ **Featured Projects**
 
