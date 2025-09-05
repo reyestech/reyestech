@@ -26,8 +26,8 @@ In this GitHub Repository, I share my hands-on labs, experiments, and personal p
 
 — 🛠️ Build → 💥 Break → 🧰 Fix → 📝 Learn → 🔁 Repeat
 
-<h7>⚠️ Disclaimer: All content shared is for educational purposes only! </h7>
-  
+> ⚠️ Disclaimer: All content shared is for educational purposes only!
+
 <p align="center">
     
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
