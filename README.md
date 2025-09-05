@@ -11,14 +11,15 @@
 ---
 
 <h1 align="center">Information Security | Cloud & Infrastructure | Digital Forensics</h1>
-<p align="center"><strong> 🔐 Securing Systems ⚙️ Automating Workflows | 📊 Threat Intel 🧱 Building Resilient Cloud & Hybrid Infrastructure </strong></p>
+<p align="center"><strong> 🔐 Securing Systems 🔁 Automating Workflows ⚙️ Troubleshooting Tools 🏠 Homelabing 🧱 Building Resilient Infrastructure </strong></p>
 
 ---
 
 # 🎖️ About Me 🧑🏿‍💻
 ### **Hi, I'm Hector!** 👋
 
-I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** —  
+I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** — 
+
 Passion for building, securing, and automating resilient cloud and hybrid infrastructures. I enjoy developing tools and techniques that streamline workflows and enhance automation across systems, primarily within the Microsoft Azure ecosystem.
 
 In this GitHub Repository, I share my hands-on labs, experiments, and personal projects. I'm focused on learning through doing, breaking, fixing, and building better.
@@ -48,7 +49,7 @@ In this GitHub Repository, I share my hands-on labs, experiments, and personal p
 ## 🔄 **Automation Toolkit** 
 
 ### [**Automation Remediation Toolkit – PowerShell & Bash**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
-🔺This repository houses a Bash & PowerShell CMLToolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
+🔺This repository houses a Bash & PowerShell CLI Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
 
 ### [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 🔺Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
