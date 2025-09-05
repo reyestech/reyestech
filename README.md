@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center"> Cybersecurity | Cloud & Infrastructure | Digital Forensics Labs </h1>
+<h1 align="center"> Cybersecurity | Cloud & Infrastructure | Digital Forensics | Labs </h1>
 <p align="center"><strong> 🔐 Securing Systems 🔁 Automating Workflows ⚙️ Troubleshooting Tools 🏠 Homelabing 🧱 Building Resilient Infrastructure </strong></p>
 
 ---
