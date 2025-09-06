@@ -65,7 +65,7 @@ In this GitHub Repository, I share my hands-on labs, experiments, and personal p
 - [ ] Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 
 ### [**Splunk BOTS: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
-Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
+- [ ] Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
 
 ---
 
