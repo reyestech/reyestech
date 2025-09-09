@@ -61,10 +61,10 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
 ## 🕵️ **Splunk Investigations** 
     
-### [**Splunk BOTS: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
+### [**Splunk SOC Lab: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
 - [ ] Splunk-based incident response runbook, addressing a cyber attack on the company's web server.  
 
-### [**Splunk BOTS: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
+### [**Splunk SOC Lab: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
 - [ ] Configured Splunk and Suricata to analyze ransomware events, build detection rules, and design incident response playbooks
 
 ---
