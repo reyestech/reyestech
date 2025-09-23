@@ -52,7 +52,7 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
 
 ---
 
-## 🔄 **CLI Automation Toolkit** 
+## 🔄 **Automation & Remediation CLI Toolkits** 
 
 ### [**PowerShell & Bash Toolkit – CLI Troubleshooting & Automation**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
 - [ ] This repository houses a Bash & PowerShell CLI Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
