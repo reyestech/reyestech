@@ -41,12 +41,12 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
 ## 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main"> **Microsoft Azure Labs** </a>
 
 ### [**Azure SOC Lab – Sentinel SIEM + Honeynet **](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-) 
-- [ ] Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
+- [ ] Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps. — In-Progress
 
     `Tools: Microsoft Sentinel, Azure VMs, Logic Apps, PowerShell, KQL`
 
-### [**Kubernetes on Azure – Azure 3-Node Cluster & Baremental Migration**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
-- [ ] Built and managed a 3-node Kubernetes-AKS cluster to simulate production infrastructure. Implemented pod-level security policies, spod security policies, scaling, and log integration with Microsoft Sentinel.
+### [**Kubernetes on Azure – Multi-Node AKS Cluster & Bare-Metal Migration Runbook**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
+- [ ] Built and managed a 3-node Kubernetes-AKS cluster to simulate production infrastructure. Implemented pod-level security policies, spod security policies, scaling, and log integration with Microsoft Sentinel. — In-Progress
 
     `Tools: Azure Kubernetes Service (AKS), Azure VMs, Microsoft Sentinel, YAML`
 
