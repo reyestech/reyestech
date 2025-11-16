@@ -22,7 +22,6 @@ I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** —
 
 Passion for building, securing, and automating resilient cloud and hybrid infrastructures. I enjoy developing tools and techniques that streamline workflows and enhance automation across systems, primarily within the Microsoft Azure ecosystem.
 
-In this GitHub Repository, I share my hands-on labs, homelab builds, and documented projects focused on repeatable workflows and continuous improvement. 
 
 I believe in learning by doing—breaking and fixing, then rebuilding better.
 
@@ -35,47 +34,47 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
   <img src="https://github.com/user-attachments/assets/94b6696a-d14a-4606-8a94-30e5a8ae9daa" alt="cc563a569dbad4f615e5a45c1c99f6c9" width="300"/>
 
 # 🛠️ **Featured Projects**
+In this GitHub Repository, I share my hands-on labs, homelab builds, and documented projects focused on repeatable workflows and continuous improvement. 
 
 ---
 
-## 🪟 **Microsoft Azure Labs** </a>
-
-### [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-SOC-Sentinel-Honeynet-Detection-Lab-/blob/main/README.md) 
+# 🪟 **Microsoft Azure Labs** </a>
+## [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-SOC-Sentinel-Honeynet-Detection-Lab-/blob/main/README.md) 
 - [ ] Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
 
     `Tools: Microsoft Sentinel, Azure VMs, Logic Apps, PowerShell, KQL`
 
-### [**Kubernetes on Azure – Multi-Node AKS Cluster & Bare-Metal Migration Runbook**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
+## [**Kubernetes on Azure – Multi-Node AKS Cluster & Bare-Metal Migration Runbook**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
 - [ ] Built and managed a 3-node Kubernetes-AKS cluster to simulate production infrastructure. Implemented pod-level security policies, spod security policies, scaling, and log integration with Microsoft Sentinel. — In-Progress
 
     `Tools: Azure Kubernetes Service (AKS), Azure VMs, Microsoft Sentinel, YAML`
 
 ---
 
-## 🔄 **Automation & Remediation CLI Toolkits** 
+# 🔄 **Automation & Remediation CLI Toolkits** 
 
-### [**PowerShell & Bash Toolkit – CLI Troubleshooting & Automation**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
+## [**PowerShell & Bash Toolkit – CLI Troubleshooting & Automation**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
 - [ ] This repository houses a Bash & PowerShell CLI Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
 
     `Tools: PowerShell, Bash, Windows Event Logs, Sysinternals, ssh, syslog`
 
-### [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
+## [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 - [ ] Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
 
-### [**Bash Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) 
+## [**Bash Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) 
 - [ ] Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
 
 ---
 
-## 🕵️ **Splunk Investigations** 
+# 🕵️ **Splunk Investigations** 
     
-### [**Splunk SOC Lab: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
+## [**Splunk SOC Lab: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
 - [ ] Recreated a website defacement attack using Splunk BOTS v1 dataset. Traced attacker path (scanner → Joomla exploit → brute-force → uploaded payload) and documented remediation steps.
       
     `Tools: Splunk, Suricata, VirusTotal, AlienVault OTX`
 
 
-### [**Splunk SOC Lab: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
+## [**Splunk SOC Lab: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
 - [ ] Splunk-based incident response runbook. Analyzed ransomware activity with Splunk and Suricata, identified patient-zero host, tracked USB-to-encryption chain, and built detection dashboards/playbooks.
 
     `Tools: Splunk, Suricata, Sysmon, WinRegistry`
@@ -83,26 +82,17 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
 
 ---
 
-## 🥷 **Penetration Testing Runbooks** 
+# 🥷 **Penetration Testing Runbooks** 
     
-### [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) 
+## [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) 
 - [ ] End-to-end penetration test walkthrough, from Nmap reconnaissance to Metasploit exploitation and post-exploitation workflows.
 
     `Tools: Nmap, Metasploit, msfvenom, Kali Linux`
 
-### [**Hashcat Runbook – Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) 
+## [**Hashcat Runbook – Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) 
 - [ ] Password and NTLM Hash Vulnerability Analysis Using Kali Linux and Hashcat.
 
     `Tools: Hashcat, Kali Linux, NTLM Hashes`
-
----
-
-## 📊 **Vulnerability Management** 
-    
-### [**OpenVAS Runbook – Vulnerability Management**](https://github.com/reyestech/Openvas/blob/main/README.md) 
-- [ ] Configured OpenVAS to scan vulnerable Windows VMs hosted in Azure. Validated findings, triaged results, and created remediation recommendations. 
-
-    `Tools: OpenVAS, Azure VMs, Kali Linux`    
 
 ---
 
