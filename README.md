@@ -108,7 +108,7 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
 
 ## 🖥️ **Fullstack Academy: Capstone Project** 
     
-- [ ] [**Elastic SIEM & ELK Runbook**](https://github.com/reyestech/Elastic-SIEM-Lab-Runbook) Deployed ELK stack for centralized monitoring with Kibana dashboards and AD integration.
+- [ ] [**Elastic SIEM Runbook – 2025 Ubuntu Update**](https://github.com/reyestech/Runbook-Elastic-SIEM/edit/main/README.md) Deployed ELK stack for centralized monitoring with Kibana dashboards and AD integration.
     
     `Tools: Elastic Stack (ELK), Kibana, Active Directory`
 
