@@ -38,9 +38,9 @@ I believe in learning by doing—breaking and fixing, then rebuilding better.
 
 ---
 
-## 🪟 <a href="https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-/tree/main"> **Microsoft Azure Labs** </a>
+## 🪟 **Microsoft Azure Labs** </a>
 
-### [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-Honeynet-and-Sentinel-Hardening-) 
+### [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-SOC-Sentinel-Honeynet-Detection-Lab-/blob/main/README.md) 
 - [ ] Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
 
     `Tools: Microsoft Sentinel, Azure VMs, Logic Apps, PowerShell, KQL`
