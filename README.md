@@ -54,34 +54,33 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 # 🔄 **Automation & Remediation CLI Toolkits** 
 
 ## [**PowerShell & Bash Toolkit – CLI Troubleshooting & Automation**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
-- [ ] This repository houses a Bash & PowerShell CLI Toolkit tailored for forensic analysis, troubleshooting, and automation in both Linux and Windows environments
+- [ ] A cross‑platform CLI toolkit combining PowerShell and Bash scripts for forensic analysis, system troubleshooting, and workflow automation across Windows and Linux environments.
 
     `Tools: PowerShell, Bash, Windows Event Logs, Sysinternals, ssh, syslog`
 
 ## [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
-- [ ] Ready-to-run PowerShell scripts for troubleshooting, automation, and safe remediation.
+- [ ] A collection of ready‑to‑run PowerShell scripts designed for rapid troubleshooting, automation, and safe forensic triage on Windows systems.
 
 ## [**Bash Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-) 
-- [ ] Ready-to-run Bash scripts for automated troubleshooting and evidence collection.
+- [ ] A set of Bash scripts focused on automated troubleshooting, log collection, and forensic triage in Linux environments.
 
 ---
 
 # 🕵️ **Blueteam: Splunk & Elastic SIEM Investigations** 
     
 ## [**Splunk SOC Lab: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
-- [ ] Recreated a website defacement attack using Splunk BOTS v1 dataset. Traced attacker path (scanner → Joomla exploit → brute-force → uploaded payload) and documented remediation steps.
-      
+- [ ]  Splunk-based Webattack incident response runbook. Traced attacker path (scanner → Joomla exploit → brute-force → uploaded payload) and documented remediation steps.
+
     `Tools: Splunk, Suricata, VirusTotal, AlienVault OTX`
 
-
 ## [**Splunk SOC Lab: Ransomware Investigation & Response**](https://github.com/reyestech/Splunk-Ransomware) 
-- [ ] Splunk-based incident response runbook. Analyzed ransomware activity with Splunk and Suricata, identified patient-zero host, tracked USB-to-encryption chain, and built detection dashboards/playbooks.
+- [ ] Splunk-based Ransomware incident response runbook. Analyzed ransomware activity with Splunk and Suricata, identified patient-zero host, tracked USB-to-encryption chain, and built detection dashboards/playbooks.
 
     `Tools: Splunk, Suricata, Sysmon, WinRegistry`
 
 ## [**Elastic SIEM Runbook – 2025 Ubuntu Update**](https://github.com/reyestech/Runbook-Elastic-SIEM/edit/main/README.md)
 - [ ] A concise runbook documenting the deployment of an ELK stack for centralized security monitoring, featuring Kibana dashboards and Active Directory integration. 
-    
+
     `Tools: Elastic Stack (ELK), Kibana, Active Directory`
 
 ---
@@ -89,26 +88,24 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 # 🥷 **Penetration Testing Runbooks** 
     
 ## [**Recon to Exploitation – Metasploit Pentest**](https://github.com/reyestech/Nmap-Metasploit-Penetration-Testing-Report) 
-- [ ] End-to-end penetration test walkthrough, from Nmap reconnaissance to Metasploit exploitation and post-exploitation workflows.
+- [ ] An end‑to‑end penetration testing walkthrough covering reconnaissance, exploitation, and post‑exploitation using Nmap and Metasploit.
 
     `Tools: Nmap, Metasploit, msfvenom, Kali Linux`
 
 ## [**Hashcat Runbook – Password Cracking**](https://github.com/reyestech/Hashcat/tree/main) 
-- [ ] Password and NTLM Hash Vulnerability Analysis Using Kali Linux and Hashcat.
+- [ ] A hands‑on runbook demonstrating password and NTLM hash analysis using Hashcat in a controlled Kali Linux environment.
 
     `Tools: Hashcat, Kali Linux, NTLM Hashes`
 
 ## [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) 
-- [ ] Comprehensive NMAP guide for network mapping and vulnerability assessments.
+- [ ] A comprehensive guide to network discovery and vulnerability assessment using Nmap for reconnaissance and attack surface mapping.
 
     `Tools: Nmap, Kali Linux`
 
 ## [**BeEF – Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) 
-- [ ] Documented step-by-step browser exploitation scenarios with BeEF framework.
+- [ ] A step‑by‑step runbook demonstrating browser exploitation scenarios using the BeEF framework in a controlled lab environment.
 
     `Tools: BeEF, Kali Linux, Firefox`
----
-
 
 ---
 
