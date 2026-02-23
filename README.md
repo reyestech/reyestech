@@ -66,7 +66,7 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
 ---
 
-# 🕵️ **Splunk Investigations** 
+# 🕵️ **Blueteam: Splunk & Elastic SIEM Investigations** 
     
 ## [**Splunk SOC Lab: Website Defacement Analysis & Remediation**](https://github.com/reyestech/Splunk-Web-Site-Defacement) 
 - [ ] Recreated a website defacement attack using Splunk BOTS v1 dataset. Traced attacker path (scanner → Joomla exploit → brute-force → uploaded payload) and documented remediation steps.
@@ -79,6 +79,10 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
     `Tools: Splunk, Suricata, Sysmon, WinRegistry`
 
+## [**Elastic SIEM Runbook – 2025 Ubuntu Update**](https://github.com/reyestech/Runbook-Elastic-SIEM/edit/main/README.md)
+- [ ] A concise runbook documenting the deployment of an ELK stack for centralized security monitoring, featuring Kibana dashboards and Active Directory integration. 
+    
+    `Tools: Elastic Stack (ELK), Kibana, Active Directory`
 
 ---
 
@@ -94,32 +98,17 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
     `Tools: Hashcat, Kali Linux, NTLM Hashes`
 
----
-
-## 🖥️ **Fullstack Academy: Capstone Project** 
-    
-- [ ] [**Elastic SIEM Runbook – 2025 Ubuntu Update**](https://github.com/reyestech/Runbook-Elastic-SIEM/edit/main/README.md) Deployed ELK stack for centralized monitoring with Kibana dashboards and AD integration.
-    
-    `Tools: Elastic Stack (ELK), Kibana, Active Directory`
-
-- [ ] [**BeEF – Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) Documented step-by-step browser exploitation scenarios with BeEF framework.
-
-    `Tools: BeEF, Kali Linux, Firefox`
-
-- [ ] [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) Comprehensive NMAP guide for network mapping and vulnerability assessments.
+## [**NMAP Runbook**](https://github.com/reyestech/NMAP-Runbook) 
+- [ ] Comprehensive NMAP guide for network mapping and vulnerability assessments.
 
     `Tools: Nmap, Kali Linux`
 
-- [ ] [**UTM Linux Virtualization: Apple M3**](https://github.com/reyestech/UTM-Virtual-Machines-for-M1-M2-Mac-Kali-Linux-Tutorial/tree/main) UTM guide for running Linux labs on M-series Macs.
+## [**BeEF – Browser Exploitation Runbook**](https://github.com/reyestech/BeEF-Browser-Exploitation-Framework-Runbook/blob/main/README.md) 
+- [ ] Documented step-by-step browser exploitation scenarios with BeEF framework.
 
-    `Tools: UTM, Linux VMs, Apple Silicon (M3)`
+    `Tools: BeEF, Kali Linux, Firefox`
+---
 
- <details>
-  <summary>🎥 Fullstack Academy: Capstone Project Video Demo</summary>
-  <a href="https://www.youtube.com/watch?v=j60MCJAZG3s">
-    <img src="https://img.youtube.com/vi/j60MCJAZG3s/0.jpg" alt="YouTube Video" />
-  </a>
-  </details>
 
 ---
 
