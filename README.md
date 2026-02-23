@@ -40,23 +40,26 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
 # 🪟 **Microsoft Azure Labs** </a>
 ## [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-SOC-Sentinel-Honeynet-Detection-Lab-/blob/main/README.md) 
-- [ ] Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
+Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
 
-    `Tools: Microsoft Sentinel, Azure VMs, Logic Apps, PowerShell, KQL`
+ `Tools: Microsoft Sentinel, Azure VMs, Logic Apps, PowerShell, KQL`
+
+### [**KQL Queries Sheet – Azure Honeynet Lab**](https://github.com/reyestech/KQL-Queries-Sheet-For-Azure-Honeynet-Lab/edit/main/README.md)
+- [ ] A curated, portfolio‑focused KQL query sheet built for my Azure Honeynet SOC lab, providing reusable hunts and detection examples across Sentinel/Log Analytics to support investigation, validation, and security monitoring.
 
 ## [**Kubernetes on Azure – Multi-Node AKS Cluster & Bare-Metal Migration Runbook**](https://github.com/reyestech/azure-kubernetes-hlab)</p>
-- [ ] Built and managed a 3-node Kubernetes-AKS cluster to simulate production infrastructure. Implemented pod-level security policies, spod security policies, scaling, and log integration with Microsoft Sentinel. — In-Progress
+Built and managed a 3-node Kubernetes-AKS cluster to simulate production infrastructure. Implemented pod-level security policies, spod security policies, scaling, and log integration with Microsoft Sentinel. — In-Progress
 
-    `Tools: Azure Kubernetes Service (AKS), Azure VMs, Microsoft Sentinel, YAML`
+ `Tools: Azure Kubernetes Service (AKS), Azure VMs, Microsoft Sentinel, YAML`
 
 ---
 
 # 🔄 **Automation & Remediation CLI Toolkits** 
 
 ## [**PowerShell & Bash Toolkit – CLI Troubleshooting & Automation**](https://github.com/reyestech/Bash-AND-PowerShell-CML-Toolkit-For-Forensic-Analysis-and-Troubleshooting) 
-- [ ] A cross‑platform CLI toolkit combining PowerShell and Bash scripts for forensic analysis, system troubleshooting, and workflow automation across Windows and Linux environments.
+A cross‑platform CLI toolkit combining PowerShell and Bash scripts for forensic analysis, system troubleshooting, and workflow automation across Windows and Linux environments.
 
-    `Tools: PowerShell, Bash, Windows Event Logs, Sysinternals, ssh, syslog`
+ `Tools: PowerShell, Bash, Windows Event Logs, Sysinternals, ssh, syslog`
 
 ## [**PowerShell Toolkit – Automation Scripts for Troubleshooting and Forensic Triage**](https://github.com/reyestech/PowerShell-Win-Troubleshoot-Toolkit) 
 - [ ] A collection of ready‑to‑run PowerShell scripts designed for rapid troubleshooting, automation, and safe forensic triage on Windows systems.
