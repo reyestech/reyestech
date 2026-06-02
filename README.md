@@ -38,7 +38,7 @@ In this GitHub Repository, I share my hands-on labs, homelab builds, and documen
 
 ---
 
-# 🪟 **Microsoft Azure Labs** </a>
+# 🪟 **Azure Labs** </a>
 ## [**Azure SOC Lab – Sentinel SIEM + Honeynet**](https://github.com/reyestech/Azure-SOC-Sentinel-Honeynet-Detection-Lab-/blob/main/README.md) 
 Deployed a cloud-based SIEM in Azure using Microsoft Sentinel with a honeynet of vulnerable VMs to attract, capture, and analyze live attacks; Configured detection rules and automated incident response playbooks with Logic Apps.
 
