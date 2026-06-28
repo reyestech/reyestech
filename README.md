@@ -18,14 +18,13 @@
 # 🎖️ About Me 🧑🏿‍💻
 ### **Hi, I'm Hector!** 👋
 
-I’m a U.S.-based IT professional and **Certified Cybersecurity Analyst** — 
+I’m a U.S.-based IT professional— 
 
 Passion for building, securing, and automating resilient cloud and hybrid infrastructures. I enjoy developing tools and techniques that streamline workflows and enhance automation across systems, primarily within the Microsoft Azure ecosystem.
 
+I believe the best way to learn technology is by building, breaking, fixing, and improving!
 
-I believe in learning by doing—breaking and fixing, then rebuilding better.
-
-— 🛠️ Build → 💥 Break → 🧰 Fix → 📝 Learn → 🔁 Repeat
+— 🛠️ Build → 💥 Break → 🔧 Fix → 📝 Document → 🔁 Repeat
 
 > ⚠️ Disclaimer: All content shared is for educational purposes only!
 
